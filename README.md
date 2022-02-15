@@ -19,4 +19,4 @@
 
 - 🔭 I’m currently working on My GitHub account and few projects
 
-- 🌱 I’m currently learning Web Development, Python
+- 🌱 I’m currently learning HTML, CSS, JS, Python, Lua, Small Basic
