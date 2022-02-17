@@ -9,7 +9,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bandirevanth.bandirevanth)
 
 </p>
-<div size='20px'> Hi! My name is Bandi Revanth. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Bandi Revanth. Thank you for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
