@@ -17,6 +17,6 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My GitHub account and few projects
+- 🔭 I’m currently working on - My GitHub account, learning languages (obviously) and a few projects.
 
-- 🌱 I’m currently learning HTML, CSS, JS, Python, C++, Small Basic
+- 🌱 I’m currently learning - HTML, CSS, JS, Python, C++, Small Basic.
