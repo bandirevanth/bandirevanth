@@ -46,8 +46,7 @@
 </div>
   
  <div align="center">
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bandirevanth)](https://github.com/bandirevanth/github-readme-activity-graph)
-</div>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bandirevanth)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 </td></tr></table>  
