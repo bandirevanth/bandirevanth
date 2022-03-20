@@ -30,7 +30,7 @@
 <br/>  
 
 
-## Rapidfire  
+## Info
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on projects and my GitHub account.  
@@ -46,7 +46,7 @@
 </div>
   
 <div align="center">
-https://activity-graph.herokuapp.com/graph?username=bandirevanth
+<iframe>https://activity-graph.herokuapp.com/graph?username=bandirevanth</iframe>
 </div>
 
 </td></tr></table>  
