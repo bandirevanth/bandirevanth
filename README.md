@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on projects and my GitHub account.  
   
 
-- 🌱 Programming languages - HTML, CSS, JS, Python, C++, Java, Small Basic.  
+- 🌱 Programming languages - HTML, CSS, JS, Python, C++.  
 
 
 </td><td valign="top" width="50%">
