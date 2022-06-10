@@ -1,4 +1,6 @@
-## Hey 👋, I'm Bandi Revanth!  
+# [Bandi Revanth](https://bandirevanth.com)
+
+## Hello 👋, Welcome to my official README!
   
 
 <a href="https://github.com/bandirevanth" target="_blank">
