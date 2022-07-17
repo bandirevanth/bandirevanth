@@ -60,10 +60,15 @@
 <table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bandirevanth&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bandirevanth&theme=github" /></p>
+
 
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandirevanth&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bandirevanth&" alt="bandirevanth" /></p>
+
 
 </td></tr></table>  
 
