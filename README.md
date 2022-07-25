@@ -29,8 +29,6 @@
 
 - 🌱 Programming languages - HTML, CSS, JS, Python, C++.  
 
-- <b> I'm currently taking a break, will come back soon!</b>
-
 
 </td><td valign="top" width="50%">
 
