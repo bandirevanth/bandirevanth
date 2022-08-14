@@ -1,7 +1,9 @@
 # [Bandi Revanth](https://bandirevanth.com)
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ## Hello 👋, Welcome to my official README!
-  
+
 
 <a href="https://github.com/bandirevanth" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
