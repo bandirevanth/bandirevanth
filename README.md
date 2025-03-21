@@ -68,13 +68,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bandirevanth&" alt="bandirevanth" /></p>
 
-</td></tr></table>  
-
-<br/>  
-
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bandirevanth&bg_color=000000&color=529e4c&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+</td></tr></table>
 <br/>  
 
 <div align="center">
