@@ -24,15 +24,7 @@
 <br/>  
 
 ## Info
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on projects and my GitHub account.  
-  
-
-- 🌱 Programming languages - HTML, CSS, JS, Python, C++.  
-
-
-</td><td valign="top" width="50%">
+🌱 Programming languages - HTML, Python.
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -47,7 +39,7 @@
 <div align="center">  
 <p align="center">
   <a href="https://bandirevanth.com">
-    <img src="https://skillicons.dev/icons?i=github,html,css,js,nodejs,py,stackoverflow,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=github,html,py,stackoverflow,vscode" />
   </a>
 </p>
 </div>  
