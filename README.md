@@ -69,7 +69,7 @@
 
 </td></tr></table>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bandirevanth" alt="bandirevanth" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bandirevanth" alt="bandirevanth" align="center"/></a>
 
 <br/> 
 
