@@ -28,6 +28,8 @@
 
 ### Glad to see you here!  
 **I’m a student and developer from Hyderabad, India!**  🇮🇳
+<br>
+(Note: I have stopped coding, I am busy with my academics. But I make some changes and upgrades frequently...)
   
 <br/>  
 
