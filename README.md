@@ -1,4 +1,4 @@
-# Bandi Revanth
+# Bandi Revanth 😎
 
 ## Hello 👋, Welcome to my official README!
 
@@ -27,7 +27,7 @@
 </a>
 
 ### Glad to see you here!  
-**I’m a student and developer from Hyderabad, India!**  
+**I’m a student and developer from Hyderabad, India!**  🇮🇳
   
 <br/>  
 
@@ -66,16 +66,16 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandirevanth&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bandirevanth&" alt="bandirevanth" /></p>
 
 </td></tr></table>
-<br/>  
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bandirevanth" alt="bandirevanth" /></a>
+
+<br/> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=bandirevanth&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
