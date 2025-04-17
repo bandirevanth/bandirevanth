@@ -44,6 +44,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
+[//]: # (<a><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bandirevanth"></img></a>)
+
 </td></tr></table>  
 
 <br/>  
