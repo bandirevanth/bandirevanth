@@ -28,7 +28,7 @@
 </a>
 
 ### Glad to see you here!  
-**I’m a student and developer from Hyderabad, India!**  🇮🇳
+**I’m a student and self-taught developer from Hyderabad, India!**  🇮🇳
 <br>
 (<ins>_**Note**_</ins>: I have stopped coding and am busy with academics. But I make some changes and upgrades frequently...)
   
