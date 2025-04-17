@@ -33,7 +33,7 @@
 <br/>  
 
 ## Info
-🌱 Programming languages - HTML, Python | CSS & JS (Basic)
+🌱 Programming languages - HTML, Python (Intermediate) | CSS & JS (Basic)
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -47,8 +47,8 @@
 ## Languages and Tools  
 <div align="center">  
 <p align="center">
-  <a href="https://bandirevanth.com">
-    <img src="https://skillicons.dev/icons?i=github,html,py,stackoverflow,vscode" />
+  <a href="https://github.com/bandirevanth">
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,stackoverflow,vscode,codepen,devto" />
   </a>
 </p>
 </div>  
