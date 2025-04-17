@@ -30,7 +30,7 @@
 ### Glad to see you here!  
 **I’m a student and developer from Hyderabad, India!**  🇮🇳
 <br>
-(Note: I have stopped coding and am busy with academics. But I make some changes and upgrades frequently...)
+(<ins>_**Note**_</ins>: I have stopped coding and am busy with academics. But I make some changes and upgrades frequently...)
   
 <br/>  
 
@@ -86,4 +86,3 @@
 </div>  
 
 <br/>
-
