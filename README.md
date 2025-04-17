@@ -28,12 +28,12 @@
 ### Glad to see you here!  
 **I’m a student and developer from Hyderabad, India!**  🇮🇳
 <br>
-(Note: I have stopped coding, I am busy with my academics. But I make some changes and upgrades frequently...)
+(Note: I have stopped coding and am busy with academics. But I make some changes and upgrades frequently...)
   
 <br/>  
 
 ## Info
-🌱 Programming languages - HTML, Python.
+🌱 Programming languages - HTML, Python | CSS & JS (Basic)
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
