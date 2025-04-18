@@ -4,26 +4,31 @@
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 <a href="https://github.com/bandirevanth" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/bandirevanth" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/15611261/bandi-revanth" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a>
-  <a href="https://codechef.com/users/bandi_revanth" target="_blank">
+<a href="https://codechef.com/users/bandi_revanth" target="_blank">
   <img src=https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>
 <a>
-  <a href="https://profile.codersrank.io/user/bandirevanth/">
+<a href="https://profile.codersrank.io/user/bandirevanth/">
   <img src="https://img.shields.io/badge/CodersRank-%67A4AC.svg?style=for-the-badge&logo=CodersRank&logoColor=white" alt=codechef style="margin-bottom: 5px;"/>
-  </a>
+</a>
 </a>
 <a>
   <a href="https://www.hackerrank.com/bandirevanth">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=hackerrank style="margin-bottom: 5px;"/>
+  </a>
+</a>
+<a>
+  <a href="https://www.kaggle.com/bandirevanth5825">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt=hackerrank style="margin-bottom: 5px;">
   </a>
 </a>
 
