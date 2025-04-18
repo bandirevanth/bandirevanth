@@ -28,9 +28,9 @@
 </a>
 
 ### Glad to see you here!  
-**I’m a student and self-taught developer from Hyderabad, India!**  🇮🇳
-<br>
-(<ins>_**Note**_</ins>: I have stopped coding and am busy with academics. But I make some changes and upgrades frequently...)
+⭐**I’m a student and self-taught developer from Hyderabad, India!**  🇮🇳
+<br></br>
+<ins>_**Imp Note <i>(Please read!)</i>**_</ins> -  I have stopped coding and am extremely busy with academics. But, I make some changes and upgrades frequently. Post-academics, I intend to review and rebuild my coding proficiency...
   
 <br/>  
 
@@ -69,7 +69,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandirevanth&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandirevanth&hide_border=true&layout=compact" align="left" style="width: 95%" />
 
 </td></tr></table>
 
