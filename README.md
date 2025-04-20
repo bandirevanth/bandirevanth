@@ -1,4 +1,12 @@
-# Bandi Revanth 😎 
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Bandi Revanth 😎</h1>
+    </summary>
+  </ul>
+</div>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 ## Hello & Welcome! 👋
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
