@@ -48,7 +48,25 @@
 <br/>  
 
 ## Info
-🌱 Programming languages - HTML, Python (Intermediate) | CSS & JS (Basic)
+🌱 Programming languages - HTML, Python (Intermediate) | CSS & JS (Basic)  
+🔭 I’m currently working on *My portfolio website*  
+🤝 I’m looking to collaborate on *Open-source and other related projects*  
+
+## ⚡ Achievements 🔥
+1. Three-time quiz champion, recognised for consistent top performance in general knowledge and science.
+    - Times Inter School Quiz           - Semi-finalist (2024)
+    - Indica The India Quiz (Hyderabad) - 2nd Prize (2024)
+    - Birla Hyderabad Science Quiz      - Winner (2023)
+2. SOF Cyber/CS Olympiad
+    - Exceptional performance; School topper; Gold medals winner
+    - 2021 (Zonal Rank 10), 2022 (Zonal Rank 15), 2025 (Zonal Rank 24)
+4. Certifications:
+    - HackerRank: Python & JavaScript (Basic)
+    - OpenWeaver: HTML & CSS (Basics)
+5. Hackathons:
+    - HPE CodeWars 2022: Rank 413 [https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/]
+    - Amrita InCTFj 2021: Ranked in Top 50 [https://inctf.in/]
+
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
