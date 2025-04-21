@@ -86,10 +86,22 @@
 
 </td></tr></table>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=bandirevanth&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bandirevanth&date_format=M%20j%5B%2C%20Y%5D"></img>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bandirevanth" alt="bandirevanth" align="center"/></a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/bandirevanth/bandirevanth/blob/main/README_TE.md">View Telugu version (తెలుగు)</a>
+<br>
+  <a href="https://github.com/bandirevanth/bandirevanth/blob/main/README_HI.md">View Hindi version (हिन्दी)</a>
 </div>
 
 <br/> 
