@@ -40,14 +40,14 @@
   </a>
 </a>
 
-### Glad to see you here!  
+### Glad to see you here! 😊
 ⭐**I’m a student and self-taught developer from Hyderabad, India!**  🇮🇳
 <br></br>
 <ins>_**Imp Note <i>(Please read!)</i>**_</ins> -  I have stopped coding and am extremely busy with academics. But, I make some changes and upgrades frequently. Post-academics, I intend to review and rebuild my coding proficiency...
   
 <br/>  
 
-## Info
+## Info 🌟
 🌱 Programming languages - HTML, Python (Intermediate) | CSS & JS (Basic)  
 🔭 I’m currently working on *My portfolio website*  
 🤝 I’m looking to collaborate on *Open-source and other related projects*  
