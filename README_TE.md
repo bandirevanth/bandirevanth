@@ -94,6 +94,14 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bandirevanth" alt="bandirevanth" align="center"/></a>
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/bandirevanth/bandirevanth/blob/main/README.md">అసలు సంస్కరణను వీక్షించండి (English)</a>
+<br>
+  <a href="https://github.com/bandirevanth/bandirevanth/blob/main/README_HI.md">హిందీ వెర్షన్ చూడండి (हिंदी)</a>
+</div>
+
 <br/> 
 
 <div align="center">
