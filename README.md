@@ -55,18 +55,18 @@
 
 ## ⚡ Achievements 🔥
 1. Three-time quiz champion, recognised for consistent top performance in general knowledge and science.
-    - Birla Hyderabad Science Quiz      - Winner (2023)
+    - [Birla Hyderabad Science Quiz](https://calps.in/2023/03/03/hyderabad-science-quiz-2022_23/)      - Winner (2023)
     - Times Inter School Quiz           - Semi-finalist (2024)
-    - Indica The India Quiz (Hyderabad) - 2nd Prize (2024)
+    - [Indica The India Quiz (Hyderabad)](https://indica.consultnexus.in/) - 2nd Prize (2024)
 2. SOF Cyber/CS Olympiad
     - Exceptional performance; School topper; Gold medals winner
     - 2021 - Zonal Rank 10 | 2022 - Zonal Rank 15 | 2025 - Zonal Rank 24
 3. Certifications:
-    - HackerRank: Python & JavaScript (Basic)
+    - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): Python & JavaScript (Basic)
     - OpenWeaver: HTML & CSS (Basics)
 4. Hackathons:
-    - HPE CodeWars 2022: Rank 413 [https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/]
-    - Amrita InCTFj 2021: Ranked in Top 50 [https://inctf.in/]
+    - [HPE CodeWars 2022](https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/): Rank 413
+    - [Amrita InCTFj 2021](https://inctf.in/): Ranked in Top 50
 5. Miscellaneous:
     - Apex Spell Bee - Rank 2 in State level (2022)
     - CBSE Aryabhata Ganit Challenge - School Topper & Qualified for Level 2 (2023 & 2024)
