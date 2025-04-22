@@ -41,7 +41,7 @@
 </a>
 
 ### Glad to see you here! 😊
-⭐**I’m a student and self-taught developer from Hyderabad, India!**  🇮🇳
+⭐**I’m a student and self-taught developer from Hyderabad, India! (I'm 15 years old)**  🇮🇳
 <br></br>
 <ins>_**Imp Note <i>(Please read!)</i>**_</ins> -  I have stopped coding and am extremely busy with academics. But, I make some changes and upgrades frequently. Post-academics, I intend to review and rebuild my coding proficiency...
   
@@ -60,13 +60,13 @@
 2. SOF Cyber/CS Olympiad
     - Exceptional performance; School topper; Gold medals winner
     - 2021 - Zonal Rank 10 | 2022 - Zonal Rank 15 | 2025 - Zonal Rank 24
-4. Certifications:
+3. Certifications:
     - HackerRank: Python & JavaScript (Basic)
     - OpenWeaver: HTML & CSS (Basics)
-5. Hackathons:
+4. Hackathons:
     - HPE CodeWars 2022: Rank 413 [https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/]
     - Amrita InCTFj 2021: Ranked in Top 50 [https://inctf.in/]
-6. Miscellaneous:
+5. Miscellaneous:
     - Apex Spell Bee - Rank 2 in State level (2022)
     - CBSE Aryabhata Ganit Challenge - School Topper & Qualified for Level 2 (2023 & 2024)
 
