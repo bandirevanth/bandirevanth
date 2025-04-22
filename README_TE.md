@@ -117,7 +117,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/bandirevanth/bandirevanth/blob/main/README.md">అసలు సంస్కరణను వీక్షించండి (English)</a>
+  <a href="https://github.com/bandirevanth/bandirevanth/blob/main/README.md">అసలు సంస్కరణను చూడండి (English)</a>
 <br>
   <a href="https://github.com/bandirevanth/bandirevanth/blob/main/README_HI.md">హిందీ వెర్షన్ చూడండి (हिंदी)</a>
 </div>
