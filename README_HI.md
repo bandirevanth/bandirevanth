@@ -5,6 +5,11 @@
     </summary>
   </ul>
 </div>
+
+<div align=center>
+  <a href="https://github.com/bandirevanth"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1700&center=true&vCenter=true&width=650&lines=%E0%A4%B8%E0%A5%8D%E0%A4%B5-%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A5%8B%E0%A4%A1%E0%A4%B0%2F%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A4%B2%E0%A4%AA%E0%A4%B0+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;15+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A5%80%E0%A4%AF+%E0%A4%9B%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%F0%9F%93%9A;%E0%A4%B6%E0%A5%8C%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE+%E0%A4%96%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80+%F0%9F%9A%80%F0%9F%8C%8C;%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A5%80+%F0%9F%8C%B3;%F0%9F%8C%9F+%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%A4%E0%A4%BE+%E0%A4%AA%E0%A4%B0+%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%A4+%E0%A4%AC%E0%A4%A6%E0%A4%B2%E0%A4%BE%E0%A4%B5+%E0%A4%B2%E0%A4%BE%E0%A4%A8%E0%A5%87+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%A4+%F0%9F%94%A5" alt="Typing SVG" /></a>
+</div>
+
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## नमस्कार! 🙏 आपका स्वागत है! 👋
