@@ -1,3 +1,7 @@
+<div align=center>
+  <img src="https://minimalistic-wallpaper.demolab.com/?random" width=50%>
+</div>
+
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
