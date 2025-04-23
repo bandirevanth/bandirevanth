@@ -71,7 +71,7 @@
     - 2021 - జోనల్ ర్యాంక్ 10 | 2022 - జోనల్ ర్యాంక్ 15 | 2025 - జోనల్ ర్యాంక్ 24
 3. సర్టిఫికేషన్లు:
     - [హ్యాకర్‌ర్యాంక్](https://www.hackerrank.com/profile/bandirevanth): పైథాన్ & జావాస్క్రిప్ట్ (ప్రాథమిక)
-    - ఓపెన్‌వీవర్: HTML & CSS (ప్రాథమిక)
+    - [ఓపెన్‌వీవర్]((https://community.openweaver.com/c/open-weaver-certifications/22/)): HTML & CSS (ప్రాథమిక)
 4. హ్యాకథాన్‌లు:
     - [HPE కోడ్‌వార్స్ 2022](https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/): ర్యాంక్ 413
     - [అమృత InCTFj 2021](https://inctf.in/): టాప్ 50లో స్థానం పొందింది
