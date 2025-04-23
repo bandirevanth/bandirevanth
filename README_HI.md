@@ -73,7 +73,7 @@
     - 2021 - जोनल रैंक 10 | 2022 - जोनल रैंक 15 | 2025 - जोनल रैंक 24
 3. प्रमाणन:
     - [हैकररैंक](https://www.hackerrank.com/profile/bandirevanth): पायथन और जावास्क्रिप्ट (बेसिक)
-    - ओपनवीवर: HTML और CSS (बेसिक)
+    - [ओपनवीवर]((https://community.openweaver.com/c/open-weaver-certifications/22/)): HTML और CSS (बेसिक)
 4. हैकाथॉन:
     - [एच.पी.ई. कोडवार्स 2022](https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/): रैंक 413
     - [अमृता InCTFj 2021](https://inctf.in/): शीर्ष 50 में स्थान
