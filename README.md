@@ -57,7 +57,7 @@
 
 ## Info 🌟
 🌱 Programming languages - HTML, Python (Intermediate) | CSS & JS (Basic)  
-🔭 I’m currently working on *My portfolio website*  
+🔭 I’m currently working on *[My portfolio website](https://github.com/bandirevanth/portfolio)*  
 🤝 I’m looking to collaborate on *Open-source and other related projects*  
 
 ## ⚡ Achievements 🔥
@@ -75,7 +75,7 @@
     - [HPE CodeWars 2022](https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/): Rank 413
     - [Amrita InCTFj 2021](https://inctf.in/): Ranked in Top 50
 5. Miscellaneous:
-    - Apex Spell Bee - Rank 2 in State level (2022) 🏆
+    - [Apex Spell Bee](https://apexspellbee.com/) - Rank 2 in State level (2022) 🏆
     - CBSE Aryabhata Ganit Challenge - School Topper & Qualified for Level 2 (2023 & 2024) 
     - Consistent and all-time school academic topper. 🥇
 
