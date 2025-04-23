@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/bandirevanth">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1750&center=true&vCenter=true&width=750&lines=Self-taught+Coder%2FDeveloper+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+%26+Nerd+%F0%9F%93%9A;Armchair+amateur+astronomer+%F0%9F%9A%80%F0%9F%8C%8C;Nature+lover+%F0%9F%8C%B3;Focused+on+excellence.+Driven+to+make+a+difference." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1750&center=true&vCenter=true&width=750&lines=Self-taught+Coder%2FDeveloper+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+%26+Nerd+%F0%9F%93%9A;Armchair+amateur+astronomer+%F0%9F%9A%80%F0%9F%8C%8C;Nature+lover+%F0%9F%8C%B3;%E2%AD%90Focused+on+excellence.+Driven+to+make+a+difference.+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </p>
 
