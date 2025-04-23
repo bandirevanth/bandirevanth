@@ -83,7 +83,6 @@
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023 & 2024) 
     - Consistent and all-time school academic topper. 🥇
 
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
@@ -91,8 +90,6 @@
 [//]: # (<a><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bandirevanth"></img></a>)
 
 </td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
