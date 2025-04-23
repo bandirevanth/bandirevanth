@@ -101,17 +101,18 @@
 <br/>  
 
 ##  मेरे गिटहब आँकड़े
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bandirevanth&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bandirevanth&theme=github" /></p>
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandirevanth&hide_border=true&layout=compact" align="left" style="width: 95%" />
-
-</td></tr></table>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bandirevanth&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+          <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bandirevanth&theme=github" height=100%></p>
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandirevanth&hide_border=true&layout=compact" align="left" style="width: 95%" />
+       <img src="https://streak-stats.demolab.com?user=bandirevanth&date_format=M%20j%5B%2C%20Y%5D" style="width:95%">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bandirevanth&date_format=M%20j%5B%2C%20Y%5D"></img>
