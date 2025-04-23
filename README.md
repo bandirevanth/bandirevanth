@@ -69,8 +69,8 @@
     - [Amrita InCTFj 2021](https://inctf.in/): Ranked in Top 50
 5. Miscellaneous:
     - Apex Spell Bee - Rank 2 in State level (2022) 🏆
-    - CBSE Aryabhata Ganit Challenge - School Topper & Qualified for Level 2 (2023 & 2024)
-    - Consistent and all-time school academic topper.
+    - CBSE Aryabhata Ganit Challenge - School Topper & Qualified for Level 2 (2023 & 2024) 
+    - Consistent and all-time school academic topper. 🥇
 
 
 <div align="center">
