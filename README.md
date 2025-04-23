@@ -1,3 +1,7 @@
+<div align=center>
+  <img src="https://minimalistic-wallpaper.demolab.com/?random" width=50%>
+</div>
+
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
@@ -50,10 +54,10 @@
 ### Glad to see you here! 😊
 ⭐**I’m a student and self-taught developer from Hyderabad, India! 🇮🇳   
 (I'm 15 years old)**  
-<br></br>
+<br>
 <ins>_**Imp Note <i>(Please read!)</i>**_</ins> -  I have stopped coding and am extremely busy with academics. But, I make some changes and upgrades frequently. Post-academics, I intend to review and rebuild my coding proficiency...
-  
-<br/>  
+
+<br>
 
 ## Info 🌟
 🌱 Programming languages - HTML, Python (Intermediate) | CSS & JS (Basic)  
@@ -104,21 +108,18 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bandirevanth&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bandirevanth&theme=github" /></p>
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandirevanth&hide_border=true&layout=compact" align="left" style="width: 95%" />
-
-</td></tr></table>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bandirevanth&date_format=M%20j%5B%2C%20Y%5D"></img>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bandirevanth&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+          <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bandirevanth&theme=github" height=100%></p>
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandirevanth&hide_border=true&layout=compact" align="left" style="width: 95%" />
+       <img src="https://streak-stats.demolab.com?user=bandirevanth&date_format=M%20j%5B%2C%20Y%5D" style="width:95%">
+    </td>
+  </tr>
+</table>
 
 <br>
 
