@@ -74,7 +74,7 @@
     - 2021 - Zonal Rank 10 | 2022 - Zonal Rank 15 | 2025 - Zonal Rank 24
 3. Certifications:
     - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): Python & JavaScript (Basic)
-    - OpenWeaver: HTML & CSS (Basics)
+    - [OpenWeaver](https://community.openweaver.com/c/open-weaver-certifications/22/): HTML & CSS (Basics)
 4. Hackathons:
     - [HPE CodeWars 2022](https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/): Rank 413
     - [Amrita InCTFj 2021](https://inctf.in/): Ranked in Top 50
