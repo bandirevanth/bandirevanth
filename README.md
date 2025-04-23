@@ -5,6 +5,13 @@
     </summary>
   </ul>
 </div>
+
+<p align="center">
+  <a href="https://github.com/bandirevanth">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1700&center=true&vCenter=true&width=450&lines=Self-taught+Coder%2FDeveloper+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+%26+Nerd+%F0%9F%93%9A;Armchair+amateur+astronomer+%F0%9F%9A%80%F0%9F%8C%8C;Nature+lover+%F0%9F%8C%B3;Focused+on+excellence.+Driven+to+make+a+difference." alt="Typing SVG" />
+  </a>
+</p>
+
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## Hello & Welcome! 👋
