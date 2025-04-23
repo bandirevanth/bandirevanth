@@ -71,7 +71,7 @@
     - [Indica The India Quiz (Hyderabad)](https://indica.consultnexus.in/) - 2nd Prize (2024) 🏆
 2. [SOF Cyber/CS Olympiad](https://sofworld.org/icso/about-sof-international-computer-science-olympiad-icso-exam)
     - Exceptional performance; School topper; Gold medals winner 🥇
-    - 2021 - Zonal Rank 10 | 2022 - Zonal Rank 15 | 2025 - Zonal Rank 24
+    - 2021 - Zonal Rank 10 | 2022 - Zonal Rank 15 | [2025 - Zonal Rank 24](https://results.sofworld.org/result/xx/acb64648-7ad1-47b4-a9c0-de424880bf7d/&iaw=N.A.&saw=Gold%20Medal%20of%20Distinction,%20Certificate%20of%20Distinction,%20Certificate%20of%20Zonal%20Excellence&schaw=Student%20Progress%20Report%20(SPR)&c=10&roll_no=TS1133-10-A-002)
 3. Certifications:
     - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): Python & JavaScript (Basic)
     - [OpenWeaver](https://community.openweaver.com/c/open-weaver-certifications/22/): HTML & CSS (Basics)
