@@ -65,6 +65,10 @@
 🤝 I’m looking to collaborate on *Open-source and other related projects*  
 
 ## ⚡ Achievements 🔥
+
+<details>
+  <summary>Click to expand and view in detail.</summary>
+
 1. Three-time quiz champion, recognised for consistent top performance in general knowledge and science.
     - [Birla Hyderabad Science Quiz](https://calps.in/2023/03/03/hyderabad-science-quiz-2022_23/)      - Winner (2023) 🏆
     - Times Inter School Quiz           - Semi-finalist (2024)
@@ -82,6 +86,9 @@
     - [Apex Spell Bee](https://apexspellbee.com/) - Rank 2 in State level (2022) 🏆
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023 & 2024) 
     - Consistent and all-time school academic topper. 🥇
+
+
+</details>
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
