@@ -71,9 +71,8 @@
 <details>
   <summary>Click to expand and view in detail.</summary>
 
-1. Three-time quiz champion, recognised for consistent top performance in general knowledge and science.
+1. Two-time quiz champion, recognised for consistent top performance in general knowledge and science.
     - [Birla Hyderabad Science Quiz](https://calps.in/2023/03/03/hyderabad-science-quiz-2022_23/)      - Winner (2023) 🏆
-    - Times Inter School Quiz           - Semi-finalist (2024)
     - [Indica The India Quiz (Hyderabad)](https://indica.consultnexus.in/) - 2nd Prize (2024) 🏆
 2. [SOF Cyber/CS Olympiad](https://sofworld.org/icso/about-sof-international-computer-science-olympiad-icso-exam)
     - Exceptional performance; School topper; Gold medals winner 🥇
