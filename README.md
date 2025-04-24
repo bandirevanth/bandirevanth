@@ -101,7 +101,7 @@
     - [Revelation Spell Bee](https://revelationspellbee.com/)
        - Qualified for State level - 2023
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
-    - ISRO-IIRS - Online certification course on 'Overview of Space Science and Technology' (2022) 
+    - [ISRO-IIRS - Online certification course on 'Overview of Space Science and Technology' (2022)](https://www.iirs.gov.in/EDUSAT-News#CI159)
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023 & 2024)
     - Consistent and all-time school academic topper. 🥇
 
