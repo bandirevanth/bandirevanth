@@ -73,20 +73,29 @@
 
 1. Two-time quiz champion, recognised for consistent top performance in general knowledge and science.
     - [Birla Hyderabad Science Quiz](https://calps.in/2023/03/03/hyderabad-science-quiz-2022_23/)      - Winner (2023) 🏆
+    - Times Interschool Quiz (Hyderabad) - Semifinalist (2023)
     - [Indica The India Quiz (Hyderabad)](https://indica.consultnexus.in/) - 2nd Prize (2024) 🏆
-2. [SOF Cyber/CS Olympiad](https://sofworld.org/icso/about-sof-international-computer-science-olympiad-icso-exam)
+2. [SOF Olympiads]
+   A. [Cyber/CS Olympiad](https://sofworld.org/icso)
     - Exceptional performance; School topper; Gold medals winner 🥇
     - 2021 - Zonal Rank 10 | 2022 - Zonal Rank 15 | [2025 - Zonal Rank 24](https://results.sofworld.org/result/xx/acb64648-7ad1-47b4-a9c0-de424880bf7d/&iaw=N.A.&saw=Gold%20Medal%20of%20Distinction,%20Certificate%20of%20Distinction,%20Certificate%20of%20Zonal%20Excellence&schaw=Student%20Progress%20Report%20(SPR)&c=10&roll_no=TS1133-10-A-002)
-3. Certifications:
+   B. [Science Olympiad](https://sofworld.org/nso)
+    -  Exceptional performance; School topper; Gold medals winner 🥇
+    -  Int'l rank - 519; Regional Rank - 452; Zonal Rank - 216; School Rank - 1
+   C. [Maths Olympiad](https://sofworld.org/imo)
+4. Certifications:
     - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): Python & JavaScript (Basic)
     - [OpenWeaver](https://community.openweaver.com/c/open-weaver-certifications/22/): HTML & CSS (Basics)
-4. Hackathons:
+5. Hackathons:
     - [HPE CodeWars 2022](https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/): Rank 413
     - [Amrita InCTFj 2021](https://inctf.in/): Ranked in Top 50
-5. Miscellaneous:
+6. Miscellaneous:
     - [Apex Spell Bee](https://apexspellbee.com/) - Rank 2 in State level (2022) 🏆
-    - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023 & 2024) 
+    - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
+    - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023 & 2024)
+    - 
     - Consistent and all-time school academic topper. 🥇
+    - 
 
 
 </details>
