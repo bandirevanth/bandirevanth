@@ -75,31 +75,32 @@
     - [Birla Hyderabad Science Quiz](https://calps.in/2023/03/03/hyderabad-science-quiz-2022_23/)      - Winner (2023) 🏆
     - Times Interschool Quiz (Hyderabad) - Semifinalist (2023)
     - [Indica The India Quiz (Hyderabad)](https://indica.consultnexus.in/) - 2nd Prize (2024) 🏆
-2. [SOF Olympiads](https://sofworld.org/)  
-  A. [Cyber/CS Olympiad](https://sofworld.org/icso)  
-      - Exceptional performance; School topper; Gold medals winner 🥇  
-      - 2021 - Zonal Rank 10 | 2022 - Zonal Rank 15 | [2025 - Zonal Rank 24](https://results.sofworld.org/result/xx/acb64648-7ad1-47b4-a9c0-de424880bf7d/&iaw=N.A.&saw=Gold%20Medal%20of%20Distinction,%20Certificate%20of%20Distinction,%20Certificate%20of%20Zonal%20Excellence&schaw=Student%20Progress%20Report%20(SPR)&c=10&roll_no=TS1133-10-A-002)  
-  B. [Science Olympiad](https://sofworld.org/nso)  
-      - Exceptional performance; School topper; Gold medal winner 🥇  
-      - Int'l Rank - 519 | School Rank - 1  
-  C. [Maths Olympiad](https://sofworld.org/imo)  
-      - Exceptional performance; School topper; Gold medal winner 🥇  
+2. [SOF Olympiads](sofworld.org)  
+   A. [Cyber/CS Olympiad](sofworld.org/icso)
+      * Exceptional performance; School topper; Gold medals winner 🥇
+      * 2021 - Zonal Rank 10 | 2022 - Zonal Rank 15 | [2025 - Zonal Rank 24](https://results.sofworld.org/result/xx/acb64648-7ad1-47b4-a9c0-de424880bf7d/&iaw=N.A.&saw=Gold%20Medal%20of%20Distinction,%20Certificate%20of%20Distinction,%20Certificate%20of%20Zonal%20Excellence&schaw=Student%20Progress%20Report%20(SPR)&c=10&roll_no=TS1133-10-A-002)  
+   B. [Science Olympiad](sofworld.org/iso)
+      * Exceptional performance; School topper; Gold medal winner 🥇
+      * Int'l Rank - 519 | School Rank - 1  
+   C. [Maths Olympiad](sofworld.org/imo)
+      * Exceptional performance; School topper; Gold medal winner 🥇
 3. [LogIQids](www.logiqids.com)
     - 2022: State Rank 115
     - 2023: Zonal Rank 87
-5. Certifications:
+4. Certifications:
     - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): Python & JavaScript (Basic)
     - [OpenWeaver](https://community.openweaver.com/c/open-weaver-certifications/22/): HTML & CSS (Basics)
-6. Hackathons:
+5. Hackathons:
     - [HPE CodeWars 2022](https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/): Rank 413
     - [Amrita InCTFj 2021](https://inctf.in/): Ranked in Top 50
-7. Miscellaneous:
+6. Spell Bee:
     - [Apex Spell Bee](https://apexspellbee.com/)
        - Outstanding performance: Rank 24 - National level (2018)
        - Qualified for State level - 2019
        - Rank 2 in State level (2022) 🏆
     - [Revelation Spell Bee](https://revelationspellbee.com/)
        - Qualified for State level - 2023
+7. Miscellaneous:
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
     - ISRO-IIRS - Online certification course on '[Overview of Space Science and Technology](https://www.iirs.gov.in/EDUSAT-News#CI159)' (2022)
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023 & 2024)
