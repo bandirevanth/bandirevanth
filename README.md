@@ -103,7 +103,7 @@
 7. Miscellaneous:
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
     - ISRO-IIRS - Online certification course on '[Overview of Space Science and Technology](https://www.iirs.gov.in/EDUSAT-News#CI159)' (2022)
-    - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023 & 2024)
+    - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
     - Consistent and all-time school academic topper. 🥇
 
 
