@@ -87,7 +87,7 @@
       * Int'l Rank - 519 | School Rank - 1  
      C. [Maths Olympiad](https://sofworld.org/imo)
       * Exceptional performance; School topper; Gold medal winner 🥇
-3. [LogIQids](https://www.logiqids.com)
+3. [LogIQids Mental Aptitude Olympiad](https://www.logiqids.com)
     - 2022: State Rank 115
     - 2023: Zonal Rank 87
 4. Certifications:
@@ -108,7 +108,6 @@
     - ISRO-IIRS - Online certification course on '[Overview of Space Science and Technology](https://www.iirs.gov.in/EDUSAT-News#CI159)' (2022)
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
     - Consistent and all-time school academic topper. 🥇
-
 
 </details>
 
