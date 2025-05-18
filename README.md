@@ -84,9 +84,9 @@
       * 2021 - Zonal Rank 10 | 2022 - Zonal Rank 15 | [2025 - Zonal Rank 24](https://results.sofworld.org/result/xx/acb64648-7ad1-47b4-a9c0-de424880bf7d/&iaw=N.A.&saw=Gold%20Medal%20of%20Distinction,%20Certificate%20of%20Distinction,%20Certificate%20of%20Zonal%20Excellence&schaw=Student%20Progress%20Report%20(SPR)&c=10&roll_no=TS1133-10-A-002)  
      B. [Science Olympiad](https://sofworld.org/iso)
       * Exceptional performance; School topper; Gold medal winner 🥇
-      * Int'l Rank - 519 | School Rank - 1  
+      * 2022 - Int'l Rank - 519 | School Rank - 1  
      C. [Maths Olympiad](https://sofworld.org/imo)
-      * Exceptional performance; School topper; Gold medal winner 🥇
+      * 2022 - Exceptional performance; School topper; Gold medal winner 🥇
 3. [LogIQids Mental Aptitude Olympiad](https://www.logiqids.com)
     - 2022: State Rank 115
     - 2023: Zonal Rank 87
@@ -104,10 +104,11 @@
     - [Revelation Spell Bee](https://revelationspellbee.com/)
        - Qualified for State level - 2023
 7. Miscellaneous:
+    - [International Astronomy and Astrophysics Competition(IAAC)](https://iaac.space) - [Qualification Round 2025](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf?t=1747538522)
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
     - ISRO-IIRS - Online certification course on '[Overview of Space Science and Technology](https://www.iirs.gov.in/EDUSAT-News#CI159)' (2022)
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
-    - Consistent and all-time school academic topper. 🥇
+    - **Consistent school academic performer**. 🥇
 
 </details>
 
