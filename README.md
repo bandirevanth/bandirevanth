@@ -72,7 +72,7 @@
 ## ⚡ Achievements 🔥
 
 <details>
-  <summary>Click to expand and view in detail.</summary>
+  <summary><b>Click to expand and view in detail.</b></summary>
 
 1. Three-time quiz champion, recognised for consistent top performance in general knowledge and science.
     - [Birla Hyderabad Science Quiz](https://calps.in/2023/03/03/hyderabad-science-quiz-2022_23/)      - Winner (2023) 🏆
