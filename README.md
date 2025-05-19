@@ -30,17 +30,6 @@
 <a href="https://linktr.ee/bandirevanth">
   <img src=https://img.shields.io/badge/linktree-1de9b6.svg?&style=for-the-badge&logo=linktree&logoColor=white alt=linktree style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/bandirevanth" target="_blank">
-  <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/15611261/bandi-revanth" target="_blank">
-  <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a>
-<a href="https://codechef.com/users/bandi_revanth" target="_blank">
-  <img src=https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
-</a>
-<a>
 <a href="https://profile.codersrank.io/user/bandirevanth/">
   <img src="https://img.shields.io/badge/CodersRank-%67A4AC.svg?style=for-the-badge&logo=CodersRank&logoColor=white" alt=codechef style="margin-bottom: 5px;"/>
 </a>
@@ -52,9 +41,25 @@
 </a>
 <a>
   <a href="https://www.kaggle.com/bandirevanth5825">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt=hackerrank style="margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt=kaggle style="margin-bottom: 5px;">
   </a>
 </a>
+<a>
+  <a href="https://discord.com/users/848054547854262312">
+    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;">
+  </a>
+</a>
+<a href="https://dev.to/bandirevanth" target="_blank">
+  <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/15611261/bandi-revanth" target="_blank">
+  <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a>
+<a href="https://codechef.com/users/bandi_revanth" target="_blank">
+  <img src=https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+</a>
+<a>
 
 ### Glad to see you here! 😊
 ⭐**I’m a student and self-taught developer from Hyderabad, India! 🇮🇳   
