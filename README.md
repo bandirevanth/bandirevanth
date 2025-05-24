@@ -92,26 +92,26 @@
       * 2022 - Int'l Rank - 519 | School Rank - 1  
    C. [Maths Olympiad](https://sofworld.org/imo)
       * 2022 - Exceptional performance; School topper; Gold medal winner 🥇
-3. [LogIQids Mental Aptitude Olympiad](https://www.logiqids.com)
-    - 2022: State Rank 115
-    - 2023: Zonal Rank 87
-4. Certifications:
+3. Certifications:
     - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): Python & JavaScript (Basic)
     - [OpenWeaver](https://community.openweaver.com/c/open-weaver-certifications/22/): HTML & CSS (Basics)
-5. Hackathons:
+4. Hackathons/CTFs:
     - [DaVinci CTF 2025](https://dvc.tf/) : TBD
     - [SAS CTF 2025](https://ctf.thesascon.com/) : TBD
     - [N0PS CTF 2025](https://ctf.nops.re/) : TBD
     - [HPE CodeWars 2022](https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/): Rank 413
     - [Amrita InCTFj 2021](https://inctf.in/): Ranked in Top 50
-7. Spell Bee:
+5. Spell Bee:
     - [Apex Spell Bee](https://apexspellbee.com/)
        - Outstanding performance: Rank 24 - National level (2018)
        - Qualified for State level - 2019
        - Rank 2 in State level (2022) 🏆
     - [Revelation Spell Bee](https://revelationspellbee.com/)
        - Qualified for State level - 2023
-8. Miscellaneous:
+6. [LogIQids Mental Aptitude Olympiad](https://www.logiqids.com)
+    - 2022: State Rank 115
+    - 2023: Zonal Rank 87
+7. Miscellaneous:
     - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualification Round 2025](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf?t=1747538522)
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
     - ISRO-IIRS - Certified on '[Overview of Space Science and Technology](https://www.iirs.gov.in/EDUSAT-News#CI159)' (2022)
