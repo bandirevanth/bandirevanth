@@ -96,7 +96,6 @@
     - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): Python & JavaScript (Basic)
     - [OpenWeaver](https://community.openweaver.com/c/open-weaver-certifications/22/): HTML & CSS (Basics)
 4. Hackathons/CTFs:
-    - [DaVinci CTF 2025](https://dvc.tf/) : [TBA](https://dvc.tf/teams/231)
     - [SAS CTF 2025](https://ctf.thesascon.com/) : TBA
     - [N0PS CTF 2025](https://ctf.nops.re/) : [TBA](https://ctf.nops.re/teams/165)
     - [HPE CodeWars 2022](https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/): Rank 413
