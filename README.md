@@ -131,7 +131,7 @@
 </td></tr></table>  
 
 
-## Languages and Tools  
+## Languages and Tools 🛠  
 <div align="center">  
 <p align="center">
   <a href="https://github.com/bandirevanth">
