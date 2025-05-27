@@ -22,6 +22,8 @@
 
 ## Hello & Welcome! 👋
 
+_These links are in order of relevance (as per my profile)_
+
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 <a href="https://gist.github.com/bandirevanth" target="_blank">
@@ -40,6 +42,11 @@
   </a>
 </a>
 <a>
+<a>
+<a href="https://codechef.com/users/bandi_revanth" target="_blank">
+  <img src=https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+</a>
+<a>
   <a href="https://www.kaggle.com/bandirevanth5825">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt=kaggle style="margin-bottom: 5px;">
   </a>
@@ -55,11 +62,7 @@
 <a href="https://stackoverflow.com/users/15611261/bandi-revanth" target="_blank">
   <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a>
-<a href="https://codechef.com/users/bandi_revanth" target="_blank">
-  <img src=https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
-</a>
-<a>
+
 
 ### Glad to see you here! 😊
 ⭐**I’m a student and self-taught developer from Hyderabad, India! 🇮🇳   
