@@ -75,7 +75,13 @@ _These links are in order of relevance (as per my profile)_
 ## Info 🌟
 🌱 Programming languages - HTML (Advanced) | Python, CSS (Intermediate) | JS (Basic)  
 🔭 I’m currently working on *[My portfolio website](https://github.com/bandirevanth/bandirevanth.github.io)* ✨🚀  
-🤝 I’m looking to collaborate on *Open-source and other related projects* 
+🤝 I’m looking to collaborate on *Open-source and other related projects*   
+🌟 My Open Source contributions:
+  - [Translations & Documentations](https://app.transifex.com/user/profile/bandirevanth/)  
+    - Hindi translator at [readthedocs](https://about.readthedocs.com/)  
+    - Hindi & Telugu translator at [Bitcoin](https://bitcoin.org)  
+  - Code/Software and related:  
+    - *Coming Soon...*
 
 ## ⚡ Achievements 🔥
 
