@@ -47,13 +47,19 @@ _These links are in order of relevance (as per my profile)_
   <img src=https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>
 <a>
+  <a href="https://g.dev/bandirevanth">
+    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=kaggle&logoColor=white" alt=google-dev style="margin-bottom: 5px;" />
+  </a>
+</a>
+<a>
+<a>
   <a href="https://www.kaggle.com/bandirevanth5825">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt=kaggle style="margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt=kaggle style="margin-bottom: 5px;" />
   </a>
 </a>
 <a>
   <a href="https://discord.com/users/848054547854262312">
-    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;" />
   </a>
 </a>
 <a href="https://dev.to/bandirevanth" target="_blank">
