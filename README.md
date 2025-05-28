@@ -44,7 +44,7 @@ _These links are in order of relevance (as per my profile)_
 </a>
 <a>
   <a href="https://g.dev/bandirevanth">
-    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=kaggle&logoColor=white" alt=google-dev style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt=google-dev style="margin-bottom: 5px;" />
   </a>
 </a>
 <a>
@@ -112,23 +112,21 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
     - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): [Python (Basic)](https://www.hackerrank.com/certificates/5C55E71A795C), [JavaScript (Basic)](https://www.hackerrank.com/certificates/A1C6B62D9C82) & [JavaScript (Intermediate)](https://www.hackerrank.com/certificates/F69EC25FFC0D)
     - [OpenWeaver](https://community.openweaver.com/c/open-weaver-certifications/22/): HTML & CSS (Basics)
     - ISRO-IIRS - Certified on '[Overview of Space Science and Technology](https://www.iirs.gov.in/EDUSAT-News#CI159)' (2022)
-4. My Open-source contributions:
-    - Contributed to Hindi translation of documentation at [readthedocs](https://github.com/readthedocs)
-5. Hackathons/CTFs:
+4. Hackathons/CTFs:
     - [N0PS CTF 2025](https://ctf.nops.re/) : [TBA](https://ctf.nops.re/teams/165)
     - [HPE CodeWars 2022](https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/): Rank 413
     - [Amrita InCTFj 2021](https://inctf.in/): Ranked in Top 50
-6. Spell Bee:
+5. Spell Bee:
     - [Apex Spell Bee](https://apexspellbee.com/)
        - Outstanding performance: Rank 24 - National level (2018)
        - Qualified for State level - 2019
        - Rank 2 in State level (2022) 🏆
     - [Revelation Spell Bee](https://revelationspellbee.com/)
        - Qualified for State level - 2023
-7. [LogIQids Mental Aptitude Olympiad](https://www.logiqids.com)
+6. [LogIQids Mental Aptitude Olympiad](https://www.logiqids.com)
     - 2022: State Rank 115
     - 2023: Zonal Rank 87
-8. Miscellaneous:
+7. Miscellaneous:
     - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualification Round 2025](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf?t=1747538522)
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
 
