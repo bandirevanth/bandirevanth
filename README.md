@@ -95,10 +95,11 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
 <details>
   <summary><b>Click to expand and view in detail.</b></summary>
 
-1. Three-time quiz champion, recognised for consistent top performance in general knowledge, current affairs and science.
-    - [Birla Hyderabad Science Quiz](https://calps.in/2023/03/03/hyderabad-science-quiz-2022_23/) - Winner (2023) 🏆
+1. Multi-time quiz champion, recognised for consistent top performance in general knowledge, current affairs and science.
+    - [Hyderabad Science Quiz: Conducted by GPBAASRI & IIRS-ISRO](https://calps.in/2023/03/03/hyderabad-science-quiz-2022_23/) - Winner (2023) 🏆
     - Times Interschool Quiz (Hyderabad) - Semifinalist (2023)
     - [Indica The India Quiz (Hyderabad)](https://indica.consultnexus.in/) - 2nd Prize (2024) 🏆
+    - [Indian Navy THINQ](https://www.indiannavythinq.in/) - Qualified to Quarter-finals after multiple rounds (2024)
 2. [SOF Olympiads](https://sofworld.org)  
    A. [Cyber/CS Olympiad](https://sofworld.org/icso)
       * Exceptional performance; School topper; Gold medals winner 🥇
@@ -111,6 +112,7 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
 3. Certifications:
     - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): Python & JavaScript (Basic)
     - [OpenWeaver](https://community.openweaver.com/c/open-weaver-certifications/22/): HTML & CSS (Basics)
+    - ISRO-IIRS - Certified on '[Overview of Space Science and Technology](https://www.iirs.gov.in/EDUSAT-News#CI159)' (2022)
 4. My Open-source contributions:
     - Contributed to Hindi translation of documentation at [readthedocs](https://github.com/readthedocs)
 5. Hackathons/CTFs:
@@ -130,7 +132,7 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
 8. Miscellaneous:
     - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualification Round 2025](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf?t=1747538522)
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
-    - ISRO-IIRS - Certified on '[Overview of Space Science and Technology](https://www.iirs.gov.in/EDUSAT-News#CI159)' (2022)
+
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
     - **Consistent school academic performer**. 🥇
        - 95% in Grade 8th & 9th
