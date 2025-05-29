@@ -48,6 +48,10 @@ _These links are in order of relevance (as per my profile)_
   </a>
 </a>
 <a>
+  <a href="https://leetcode.com/u/bandi_revanth/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=leetcode style="margin-bottom: 5px;" />
+  </a>
+</a>
 <a>
   <a href="https://www.kaggle.com/bandirevanth5825">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt=kaggle style="margin-bottom: 5px;" />
