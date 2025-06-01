@@ -84,7 +84,7 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
 
 ## Info 🌟
 🌱 Programming languages - HTML (Advanced) | Python, CSS (Intermediate) | JS (Basic)  
-🔭 I’m currently working on *[My portfolio website](https://github.com/bandirevanth/bandirevanth.github.io)* ✨🚀  
+🔭 I’m currently working on AI/ML Projects ✨🚀  
 🤝 I’m looking to collaborate on *Open-source and other related projects*   
 🌟 My Open Source contributions:
   - [Translations & Documentations](https://app.transifex.com/user/profile/bandirevanth/)  
@@ -92,6 +92,18 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
     - Hindi translator at [Bitcoin](https://bitcoin.org)
   - Code/Software and related:  
     - *Coming Soon...*
+   
+## Languages and Tools 🛠  
+<div align="center">  
+<p align="center">
+  <a href="https://github.com/bandirevanth">
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,github,stackoverflow,vscode,devto" />
+  </a>
+  <a href="" target="_blank">
+      <img src="https://github.com/bandirevanth/bandirevanth/googlecolab.svg" width="48" height="48" alt="Google Colab" style="margin: 0 4px;" />
+  </a>
+</p>
+</div>  
 
 ## ⚡ Achievements 🔥
 
@@ -148,16 +160,6 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
 [//]: # (<a><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bandirevanth"></img></a>)
 
 </td></tr></table>  
-
-
-## Languages and Tools 🛠  
-<div align="center">  
-<p align="center">
-  <a href="https://github.com/bandirevanth">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,github,stackoverflow,vscode,devto" />
-  </a>
-</p>
-</div>  
 
 <br/>  
 
