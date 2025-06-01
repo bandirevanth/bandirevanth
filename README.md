@@ -97,10 +97,10 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
 <div align="center">  
 <p align="center">
   <a href="https://github.com/bandirevanth">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,github,stackoverflow,vscode,devto" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,github,stackoverflow,vscode" />
   </a>
   <a href="" target="_blank">
-      <img src="https://github.com/bandirevanth/bandirevanth/googlecolab.svg" width="48" height="48" alt="Google Colab" style="margin: 0 4px;" />
+      <img src="https://github.com/bandirevanth/bandirevanth/blob/main/googlecolab.svg" width="48" height="48" alt="Google Colab" style="margin: 0 4px;"  />
   </a>
 </p>
 </div>  
