@@ -125,7 +125,7 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
    C. [Maths Olympiad](https://sofworld.org/imo)
       * 2022 - Exceptional performance; School topper; Gold medal winner 🥇
 3. Certifications:
-    - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): [Python (Basic)](https://www.hackerrank.com/certificates/5C55E71A795C), [JavaScript (Basic)](https://www.hackerrank.com/certificates/A1C6B62D9C82) & [JavaScript (Intermediate)](https://www.hackerrank.com/certificates/F69EC25FFC0D)
+    - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): [Python (Basic)](https://www.hackerrank.com/certificates/5C55E71A795C), [JavaScript (Basic)](https://www.hackerrank.com/certificates/A1C6B62D9C82)
     - [OpenWeaver](https://community.openweaver.com/c/open-weaver-certifications/22/): HTML & CSS (Basics)
     - ISRO-IIRS - Certified on '[Overview of Space Science and Technology](https://www.iirs.gov.in/EDUSAT-News#CI159)' (2022)
 4. Hackathons/CTFs:
