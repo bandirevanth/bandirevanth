@@ -85,13 +85,12 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
 ## Info 🌟
 🌱 Programming languages - HTML (Advanced) | Python, CSS (Intermediate) | JS (Basic)  
 🔭 I’m currently working on [AI/ML Projects](https://github.com/stars/bandirevanth/lists/ai-ml-dl) ✨🚀  
+✍ I'm currently learning SQL, C++ [ *All suggestions are welcome! :)* ]
 🤝 I’m looking to collaborate on *Open-source and other related projects*   
 🌟 My Open Source contributions:
   - [Translations & Documentations](https://app.transifex.com/user/profile/bandirevanth/)  
     - Hindi translator at [readthedocs](https://about.readthedocs.com/)  
     - Hindi translator at [Bitcoin](https://bitcoin.org)
-  - Code/Software and related:  
-    - *Coming Soon...*
    
 ## Languages and Tools 🛠  
 <div align="center">  
@@ -125,24 +124,25 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
    C. [Maths Olympiad](https://sofworld.org/imo)
       * 2022 - Exceptional performance; School topper; Gold medal winner 🥇
 3. Certifications:
+    - Google ML Crash Course - [Learn more](https://g.dev/bandirevanth)
     - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): [Python (Basic)](https://www.hackerrank.com/certificates/5C55E71A795C), [JavaScript (Basic)](https://www.hackerrank.com/certificates/A1C6B62D9C82)
     - [OpenWeaver](https://community.openweaver.com/c/open-weaver-certifications/22/): HTML & CSS (Basics)
     - ISRO-IIRS - Certified on '[Overview of Space Science and Technology](https://www.iirs.gov.in/EDUSAT-News#CI159)' (2022)
-4. Hackathons/CTFs:
+5. Hackathons/CTFs:
     - [N0PS CTF 2025](https://ctf.nops.re/) : [TBA](https://ctf.nops.re/teams/165)
     - [HPE CodeWars 2022](https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/): Rank 413
     - [Amrita InCTFj 2021](https://inctf.in/): Ranked in Top 50
-5. Spell Bee:
+6. Spell Bee:
     - [Apex Spell Bee](https://apexspellbee.com/)
        - Outstanding performance: Rank 24 - National level (2018)
        - Qualified for State level - 2019
        - Rank 2 in State level (2022) 🏆
     - [Revelation Spell Bee](https://revelationspellbee.com/)
        - Qualified for State level - 2023
-6. [LogIQids Mental Aptitude Olympiad](https://www.logiqids.com)
+7. [LogIQids Mental Aptitude Olympiad](https://www.logiqids.com)
     - 2022: State Rank 115
     - 2023: Zonal Rank 87
-7. Miscellaneous:
+8. Miscellaneous:
     - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualification Round 2025](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf?t=1747538522)
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
 
