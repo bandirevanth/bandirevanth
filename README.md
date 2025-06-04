@@ -78,13 +78,13 @@ _These links are in order of relevance (as per my profile)_
 (I'm 15 years old)**  
 I began my coding journey in 2021, and for nearly four years now, it has been a path of relentless growth and discovery — one to which I’ve devoted myself wholeheartedly, without once looking back.  
 <br>
-<ins>_**Imp Note <i>(Please read!)</i>**_</ins> -  I have stopped coding and am extremely busy with academics. But, I make some changes and upgrades frequently. Post-academics, I intend to review and rebuild my coding proficiency...
+<ins>_**Imp Note <i>(Please read!)</i>**_</ins> - I’ve paused active coding to focus fully on academics, but I continue to refine and update projects. Post-academics, I intend to review and rebuild my coding proficiency...
 
 <br>
 
 ## Info 🌟
 🌱 Programming languages - HTML (Advanced) | Python, CSS (Intermediate) | JS (Basic)  
-🔭 I’m currently working on AI/ML Projects ✨🚀  
+🔭 I’m currently working on [AI/ML Projects](https://github.com/stars/bandirevanth/lists/ai-ml-dl) ✨🚀  
 🤝 I’m looking to collaborate on *Open-source and other related projects*   
 🌟 My Open Source contributions:
   - [Translations & Documentations](https://app.transifex.com/user/profile/bandirevanth/)  
