@@ -85,7 +85,7 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
 ## Info 🌟
 🌱 Programming languages - HTML (Advanced) | Python, CSS (Intermediate) | JS (Basic)  
 🔭 I’m currently working on [AI/ML Projects](https://github.com/stars/bandirevanth/lists/ai-ml-dl) ✨🚀  
-✍ I'm currently learning SQL, C++ [ *All suggestions are welcome! :)* ]
+✍ I'm currently learning SQL, C++ | *All suggestions are welcome! :)*   
 🤝 I’m looking to collaborate on *Open-source and other related projects*   
 🌟 My Open Source contributions:
   - [Translations & Documentations](https://app.transifex.com/user/profile/bandirevanth/)  
