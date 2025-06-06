@@ -124,8 +124,8 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
    C. [Maths Olympiad](https://sofworld.org/imo)
       * 2022 - Exceptional performance; School topper; Gold medal winner 🥇
 3. Certifications:
-    - Google ML Crash Course - [Learn more](https://g.dev/bandirevanth)
-    - MCP by Anthropic & DeepLearning.AI - [Learn more]()
+    - Google ML Crash Course - [View & verify](https://g.dev/bandirevanth)
+    - MCP by Anthropic & DeepLearning.AI - [View & verify](https://learn.deeplearning.ai/accomplishments/b26009b1-432e-4181-a756-92397adee40b?usp=sharing)
     - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): [Python (Basic)](https://www.hackerrank.com/certificates/5C55E71A795C), [JavaScript (Basic)](https://www.hackerrank.com/certificates/A1C6B62D9C82)
     - [OpenWeaver](https://community.openweaver.com/c/open-weaver-certifications/22/): HTML & CSS (Basics)
     - ISRO-IIRS - Certified on '[Overview of Space Science and Technology](https://www.iirs.gov.in/EDUSAT-News#CI159)' (2022)
