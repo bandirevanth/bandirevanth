@@ -125,9 +125,10 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
       * 2022 - Exceptional performance; School topper; Gold medal winner 🥇
 3. Certifications:
     - Google ML Crash Course - [View & verify](https://g.dev/bandirevanth)
-- From DeepLearning.AI & its partners
+- Via the DeepLearning.AI platform:
     - MCP by Anthropic - [View & verify](https://learn.deeplearning.ai/accomplishments/b26009b1-432e-4181-a756-92397adee40b?usp=sharing)
     - Prompt Engineering by OpenAI - [View & verify](https://learn.deeplearning.ai/accomplishments/777808d0-4cfc-4266-9b93-920d5b5a9763?usp=sharing)
+    - Carbon Aware Computing for GenAI by Google Cloud - [View & verify](https://learn.deeplearning.ai/accomplishments/38669d47-a9df-4a1e-8216-3bf96fa16bc2?usp=sharing)
 - [HackerRank](https://www.hackerrank.com/profile/bandirevanth): [Python (Basic)](https://www.hackerrank.com/certificates/5C55E71A795C), [JavaScript (Basic)](https://www.hackerrank.com/certificates/A1C6B62D9C82)
 - OpenWeaver: [HTML & CSS (Basics)](https://community.openweaver.com/c/open-weaver-certifications/22/)
 - ISRO-IIRS - Certified on '[Overview of Space Science and Technology](https://www.iirs.gov.in/EDUSAT-News#CI159)' (2022)
