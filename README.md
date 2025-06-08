@@ -137,7 +137,6 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
 - OpenWeaver: [HTML & CSS (Basics)](https://community.openweaver.com/c/open-weaver-certifications/22/)
 - ISRO-IIRS - Certified on '[Overview of Space Science and Technology](https://www.iirs.gov.in/EDUSAT-News#CI159)' (2022)
 5. Hackathons/CTFs:
-    - [N0PS CTF 2025](https://ctf.nops.re/) : [TBA](https://ctf.nops.re/teams/165)
     - [HPE CodeWars 2022](https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/): Rank 413
     - [Amrita InCTFj 2021](https://inctf.in/): Ranked in Top 50
 6. Spell Bee:
