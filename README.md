@@ -58,6 +58,11 @@ _These links are in order of relevance (as per my profile)_
   </a>
 </a>
 <a>
+  <a href="https://medium.com/@bandirevanth">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;"/>
+  </a>
+</a>
+<a>
   <a href="https://discord.com/users/848054547854262312">
     <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;" />
   </a>
