@@ -92,7 +92,7 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
 🌟 My Open Source contributions:
   - [Translations & Documentations](https://app.transifex.com/user/profile/bandirevanth/)  
     - Hindi translator at [readthedocs](https://about.readthedocs.com/)  
-    - Hindi translator at [Bitcoin](https://bitcoin.org)
+    - Hindi & Telugu translator at [Bitcoin](https://bitcoin.org)
    
 ## Languages and Tools 🛠  
 <div align="center">  
