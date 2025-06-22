@@ -80,12 +80,11 @@ _These links are in order of relevance (as per my profile)_
 
 ### Glad to see you here! 😊
 ⭐**I’m a student and self-taught developer from Hyderabad, India! 🇮🇳**  
-I began my coding journey in 2021, and for nearly four years now, it has been a path of relentless growth and discovery — one to which I’ve devoted myself wholeheartedly, without once looking back.  
+I began my coding/tech journey in 2021, and for nearly four years now, it has been a path of relentless growth and discovery — one to which I’ve devoted myself wholeheartedly, without once looking back.  
 <!--- <ins>_**Imp Note <i>(Please read!)</i>**_</ins> - I’ve paused active coding to focus fully on academics, but I continue to refine and update projects. Post-academics, I intend to review and rebuild my coding proficiency... --->
 <br>
 
 ## Info 🌟
-🌱 Programming languages - HTML (Advanced) | Python, CSS (Intermediate) | JS (Basic)  
 🔭 I’m currently working on [AI/ML Projects](https://github.com/stars/bandirevanth/lists/ai-ml-dl) ✨🚀  
 ✍ I'm currently learning SQL, C++ | *All suggestions are welcome! :)*   
 🤝 I’m looking to collaborate on *Open-source and other related projects*   
@@ -100,6 +99,7 @@ I began my coding journey in 2021, and for nearly four years now, it has been a 
   <a href="https://github.com/bandirevanth">
     <img src="https://skillicons.dev/icons?i=py,html,css,js,github,git,nodejs,react,tailwind,vscode" />
   </a>
+  <!-- Wrote the svg code myself. Feel free to use it - with credit tho :) --->
   <a href="https://github.com/bandirevanth/bandirevanth/googlecolab.svg" target="_blank">
       <img src="https://github.com/bandirevanth/bandirevanth/blob/main/googlecolab.svg" width="48" height="48" alt="Google Colab" style="margin: 0 4px;"  />
   </a>
