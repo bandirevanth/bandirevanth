@@ -86,8 +86,8 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
 
 ## Info 🌟
 🔭 I’m currently working on [AI/ML Projects](https://github.com/stars/bandirevanth/lists/ai-ml-dl) ✨🚀  
-✍ I'm currently learning SQL, C++ | *All suggestions are welcome! :)*   
-🤝 I’m looking to collaborate on *Open-source and other related projects*   
+✍ I'm currently learning **_SQL, C++_** | *All suggestions are welcome! :)*   
+🤝 I’m looking to collaborate on **_Open-source and other related projects_**   
 🌟 My Open Source contributions:
   - [Translations & Documentations](https://app.transifex.com/user/profile/bandirevanth/)  
     - Hindi translator at [readthedocs](https://about.readthedocs.com/)  
@@ -99,7 +99,7 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
   <a href="https://github.com/bandirevanth">
     <img src="https://skillicons.dev/icons?i=py,html,css,js,github,git,nodejs,react,tailwind,vscode" />
   </a>
-  <!-- Wrote the svg code myself. Feel free to use it - with credit tho :) --->
+  <!-- Wrote the svg code myself. Feel free to use it - with proper credit tho :) --->
   <a href="https://github.com/bandirevanth/bandirevanth/googlecolab.svg" target="_blank">
       <img src="https://github.com/bandirevanth/bandirevanth/blob/main/googlecolab.svg" width="48" height="48" alt="Google Colab" style="margin: 0 4px;"  />
   </a>
