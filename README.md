@@ -97,7 +97,7 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
 <div align="center">  
 <p align="center">
   <a href="https://github.com/bandirevanth">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,github,git,nodejs,react,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,github,git,nodejs,react,tailwind,vscode,latex" />
   </a>
   <!-- Wrote the svg code myself. Feel free to use it - with proper credit tho :) --->
   <a href="https://github.com/bandirevanth/bandirevanth/googlecolab.svg" target="_blank">
