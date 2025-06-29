@@ -187,7 +187,7 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
 <br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bandirevanth" alt="bandirevanth" align="center"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bandirevanth&title=-Reviews" alt="bandirevanth" align="center"/></a>
 </div>
 
 <br/> 
