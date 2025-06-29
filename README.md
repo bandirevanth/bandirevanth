@@ -92,7 +92,7 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
   - [Translations & Documentations](https://app.transifex.com/user/profile/bandirevanth/)  
     - Hindi translator at [readthedocs](https://about.readthedocs.com/)  
     - **Hindi & Telugu translator at [Bitcoin](https://bitcoin.org)**
-    - System Design Primer (working on the Hindi version)
+    - [System Design Primer](https://github.com/donnemartin/system-design-primer) : [working on the Hindi version](https://github.com/bandirevanth/system-design-primer)
    
 ## Languages and Tools 🛠  
 <div align="center">  
