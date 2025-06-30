@@ -87,12 +87,13 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
 ## Info 🌟
 🔭 I’m currently working on [AI/ML Projects](https://github.com/stars/bandirevanth/lists/ai-ml-dl) ✨🚀  
 ✍ I'm currently learning **_SQL, C++_** | *All suggestions are welcome! :)*   
-🤝 I’m looking to collaborate on **_Open-source and other related projects_**   
+🤝 I’m looking to collaborate on **_Open-source and other related projects_**  
+⚠  Please read [NOTICE.md](https://github.com/bandirevanth/bandirevanth/blob/main/NOTICE.md) - This applies to all my licensed repositories (important)  
 🌟 My Open Source contributions:
   - [Translations & Documentations](https://app.transifex.com/user/profile/bandirevanth/)  
     - Hindi translator at [readthedocs](https://about.readthedocs.com/)  
     - **Hindi & Telugu translator at [Bitcoin](https://bitcoin.org)**
-    - [System Design Primer](https://github.com/donnemartin/system-design-primer) : [working on the Hindi version](https://github.com/bandirevanth/system-design-primer)
+    - [System Design Primer](https://github.com/donnemartin/system-design-primer) : [working on the Hindi version](https://github.com/bandirevanth/system-design-primer)  
    
 ## Languages and Tools 🛠  
 <div align="center">  
