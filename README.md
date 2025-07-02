@@ -33,11 +33,6 @@ _These links are in order of relevance (as per my profile)_
   <img src=https://img.shields.io/badge/linktree-1de9b6.svg?&style=for-the-badge&logo=linktree&logoColor=white alt=linktree style="margin-bottom: 5px;" />
 </a>
 <a>
-  <a href="https://www.hackerrank.com/bandirevanth">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=hackerrank style="margin-bottom: 5px;"/>
-  </a>
-</a>
-<a>
 <a>
 <a href="https://codechef.com/users/bandi_revanth" target="_blank">
   <img src=https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
@@ -74,6 +69,11 @@ _These links are in order of relevance (as per my profile)_
 </a>
 <a href="https://profile.codersrank.io/user/bandirevanth/">
   <img src="https://img.shields.io/badge/CodersRank-%67A4AC.svg?style=for-the-badge&logo=CodersRank&logoColor=white" alt=codechef style="margin-bottom: 5px;"/>
+</a>
+<a>
+  <a href="https://www.hackerrank.com/bandirevanth">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=hackerrank style="margin-bottom: 5px;"/>
+  </a>
 </a>
 <a href="https://dev.to/bandirevanth" target="_blank">
   <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
