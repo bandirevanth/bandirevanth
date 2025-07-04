@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/bandirevanth">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1800&center=true&vCenter=true&width=750&lines=%E2%AD%90+Focused+on+excellence.+Driven+to+make+a+difference.+%F0%9F%94%A5;%E2%AD%90+Precision.+Focus.+Discipline.+%F0%9F%94%A5;Curiosity+is+my+compass.+%F0%9F%A7%AD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1750&center=true&vCenter=true&width=750&lines=%E2%AD%90+Focused+on+excellence.+Driven+to+make+a+difference.+%F0%9F%94%A5;%E2%AD%90+Precision.+Focus.+Discipline.+%F0%9F%94%A5;Curiosity+is+my+compass.+%F0%9F%A7%AD;%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%8B+%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A4%BF+%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%83+%F0%9F%95%89;%F0%9F%8C%B3+%E0%A4%B5%E0%A5%83%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8B+%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A4%BF+%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%83+%F0%9F%8C%B2" alt="Typing SVG Animation" />
   </a>
 </p>
 
