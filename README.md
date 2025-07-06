@@ -16,8 +16,6 @@
   </a>
 </p>
 
-[//]: <Self-taught+Coder%2FDeveloper+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+%26+Nerd+%F0%9F%93%9A;Armchair+amateur+astronomer+%F0%9F%9A%80%F0%9F%8C%8C;Nature+lover+%F0%9F%8C%B3;>
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## Hello & Welcome! 👋
