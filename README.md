@@ -90,7 +90,7 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
 🔭 I’m currently working on [AI/ML Projects](https://github.com/stars/bandirevanth/lists/ai-ml-dl) ✨🚀  
 ✍ I'm currently learning **_SQL, C++_** | *All suggestions are welcome! :)*   
 🤝 I’m looking to collaborate on **_Open-source and other related projects_**  
-⚠  Please read [NOTICE.md](https://github.com/bandirevanth/bandirevanth/blob/main/NOTICE.md) - This applies to all my licensed repositories (important)  
+⚠  Please read [NOTICE](https://github.com/bandirevanth/bandirevanth/blob/main/NOTICE) - This applies to all my licensed repositories (important)  
 🌟 My Open Source contributions:
   - [Translations & Documentations](https://app.transifex.com/user/profile/bandirevanth/)  
     - Hindi translator at [readthedocs](https://about.readthedocs.com/)  
