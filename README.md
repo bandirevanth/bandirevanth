@@ -104,10 +104,7 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
 <p align="center">
   <a href="https://github.com/bandirevanth">
     <img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,react,tailwind,mysql,github,git,vscode,latex,markdown" />
-  </a>
-  <!-- Wrote the svg code myself. Feel free to use it - with proper credit tho :) --->
-  <a href="https://github.com/bandirevanth/bandirevanth/googlecolab.svg" target="_blank">
-      <img src="https://github.com/bandirevanth/bandirevanth/blob/main/googlecolab.svg" width="48" height="48" alt="Google Colab" style="margin: 0 4px;"  />
+    <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory,pandas"/>
   </a>
 </p>
 </div>  
