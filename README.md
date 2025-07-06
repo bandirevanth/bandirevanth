@@ -101,8 +101,8 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
 <div align="center">  
 <p align="center">
   <a href="https://github.com/bandirevanth">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,react,tailwind,mysql,github,git,vscode,latex,markdown" />
-    <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory,pandas"/>
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,react,tailwind,mysql,git,vscode,latex,markdown" />
+    <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory,googleadk,pandas"/>
   </a>
 </p>
 </div>  
