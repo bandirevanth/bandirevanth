@@ -16,13 +16,13 @@
   </a>
 </p>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" loading="lazy" src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/rainbow-superthin.webp" />
 
-## Hello & Welcome! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hello & Welcome! <img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/hi.gif" width="29px">
 
 _These links are in order of relevance (as per my profile)_
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/dev-setup.gif" width="350" align='right'>
 
 <a href="https://gist.github.com/bandirevanth" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
