@@ -193,6 +193,9 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
 <br/> 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=bandirevanth&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=bandirevanth&&style=flat-square" align="center" />
 </div>  
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
