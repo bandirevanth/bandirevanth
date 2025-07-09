@@ -160,13 +160,13 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
 ## Github Stats  
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bandirevanth&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-          <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bandirevanth&theme=github" height=100%></p>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=bandirevanth&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bandirevanth&theme=github" style="height=100%; width=50%" />
     </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandirevanth&hide_border=true&layout=compact" align="left" style="width: 95%" />
-       <img src="https://streak-stats.demolab.com?user=bandirevanth&date_format=M%20j%5B%2C%20Y%5D" style="width:95%">
+    <td valign="top" align="center" width="50%" style="width:85%" >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandirevanth&hide_border=true&layout=compact" style="width: 85%" />
+      <img src="https://streak-stats.demolab.com?user=bandirevanth&date_format=M%20j%5B%2C%20Y%5D" />
     </td>
   </tr>
 </table>
