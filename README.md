@@ -30,48 +30,35 @@ _These links are in order of relevance (as per my profile)_
 <a href="https://linktr.ee/bandirevanth">
   <img src=https://img.shields.io/badge/linktree-1de9b6.svg?&style=for-the-badge&logo=linktree&logoColor=white alt=linktree style="margin-bottom: 5px;" />
 </a>
-<a>
-<a>
 <a href="https://codechef.com/users/bandi_revanth" target="_blank">
   <img src=https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>
-<a>
-  <a href="https://g.dev/bandirevanth">
+<a href="https://g.dev/bandirevanth">
     <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt=google-dev style="margin-bottom: 5px;" />
-  </a>
 </a>
-<a>
-  <a href="https://leetcode.com/u/bandi_revanth/">
+<a href="https://leetcode.com/u/bandi_revanth/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=leetcode style="margin-bottom: 5px;" />
-  </a>
 </a>
-<a>
-  <a href="https://www.kaggle.com/bandirevanth5825">
+<a href="https://app.transifex.com/user/profile/bandirevanth/">
+    <img src="https://img.shields.io/badge/Transifex-0064AB?style=for-the-badge&logo=transifex&logoColor=fff" alt=transifex style="margin-bottom: 5px;"/>
+</a>
+<a href="https://www.kaggle.com/bandirevanth5825">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt=kaggle style="margin-bottom: 5px;" />
-  </a>
 </a>
-<a>
-  <a href="https://medium.com/@bandirevanth">
+<a href="https://medium.com/@bandirevanth">
     <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;"/>
-  </a>
 </a>
-<a>
-  <a href="https://discord.com/users/848054547854262312">
+<a href="https://discord.com/users/848054547854262312">
     <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;" />
-  </a>
 </a>
-<a>
-  <a href="https://open.spotify.com/user/3nz1hwstr0urlsej1g6git3l1?si=20e7bc80b79b45bc">
+<a href="https://open.spotify.com/user/3nz1hwstr0urlsej1g6git3l1?si=20e7bc80b79b45bc">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;"></img>
-  </a>
 </a>
 <a href="https://profile.codersrank.io/user/bandirevanth/">
   <img src="https://img.shields.io/badge/CodersRank-%67A4AC.svg?style=for-the-badge&logo=CodersRank&logoColor=white" alt=codechef style="margin-bottom: 5px;"/>
 </a>
-<a>
-  <a href="https://www.hackerrank.com/bandirevanth">
+<a href="https://www.hackerrank.com/bandirevanth">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=hackerrank style="margin-bottom: 5px;"/>
-  </a>
 </a>
 <a href="https://dev.to/bandirevanth" target="_blank">
   <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
