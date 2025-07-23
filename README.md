@@ -137,7 +137,7 @@ I'm currently learning **C++, SQL** | *All suggestions are welcome! :)*
     - 2022: State Rank 115
     - 2023: Zonal Rank 87
 8. Miscellaneous:
-    - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualification Round 2025](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf?t=1747538522)
+    - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf?t=1747538522)
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
 
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
