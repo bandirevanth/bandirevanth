@@ -53,9 +53,6 @@ _These links are in order of relevance (as per my profile)_
     <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;" />
 </a>
 --> 
-<a href="https://open.spotify.com/user/3nz1hwstr0urlsej1g6git3l1?si=20e7bc80b79b45bc">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;"></img>
-</a>
 <a href="https://profile.codersrank.io/user/bandirevanth/">
   <img src="https://img.shields.io/badge/CodersRank-%67A4AC.svg?style=for-the-badge&logo=CodersRank&logoColor=white" alt=codechef style="margin-bottom: 5px;"/>
 </a>
@@ -67,6 +64,9 @@ _These links are in order of relevance (as per my profile)_
 </a>
 <a href="https://stackoverflow.com/users/15611261/bandi-revanth" target="_blank">
   <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://open.spotify.com/user/3nz1hwstr0urlsej1g6git3l1?si=20e7bc80b79b45bc">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;"></img>
 </a>
 
 
