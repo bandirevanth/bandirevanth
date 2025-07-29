@@ -48,9 +48,11 @@ _These links are in order of relevance (as per my profile)_
 <a href="https://medium.com/@bandirevanth">
     <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;"/>
 </a>
-<a href="https://discord.com/users/848054547854262312">
+<!--- 
+<a href="https://discord.com/users/">
     <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;" />
 </a>
+--> 
 <a href="https://open.spotify.com/user/3nz1hwstr0urlsej1g6git3l1?si=20e7bc80b79b45bc">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;"></img>
 </a>
