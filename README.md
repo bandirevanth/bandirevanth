@@ -92,8 +92,8 @@ I'm currently learning **C++, SQL** | *All suggestions are welcome! :)*
 <div align="center">  
 <p align="center">
   <a href="https://github.com/bandirevanth">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,html,css,js,nodejs,react,tailwind,mysql,git,vscode,latex,markdown" />
-    <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory,googleadk,pandas"/>
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,html,css,js,ts,nodejs,react,nextjs,tailwind,mysql,git,latex,markdown" />
+    <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory,pandas"/>
   </a>
 </p>
 </div>  
