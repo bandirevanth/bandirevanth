@@ -42,11 +42,11 @@ _These links are in order of relevance (as per my profile)_
 <a href="https://app.transifex.com/user/profile/bandirevanth/">
     <img src="https://img.shields.io/badge/Transifex-0064AB?style=for-the-badge&logo=transifex&logoColor=fff" alt=transifex style="margin-bottom: 5px;"/>
 </a>
-<a href="https://www.kaggle.com/bandirevanth5825">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt=kaggle style="margin-bottom: 5px;" />
-</a>
 <a href="https://medium.com/@bandirevanth">
     <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;"/>
+</a>
+<a href="https://www.kaggle.com/bandirevanth5825">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt=kaggle style="margin-bottom: 5px;" />
 </a>
 <!--- 
 <a href="https://discord.com/users/">
