@@ -81,7 +81,7 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
 
 
 ## Info 🌟
-<img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/telescope.png" width="18" height="18"/> I’m currently working on [AI/ML Projects](https://github.com/stars/bandirevanth/lists/ai-ml-dl) ✨🚀  
+<img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/telescope.png" width="18" height="18"/> I’m currently working on [Front-end & Full-stack Projects](https://github.com/stars/bandirevanth/lists/web-dev) ✨🚀  
 <img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/writinghand.png"  width="18" height="18"/>
 I'm currently learning **C++, SQL** | *All suggestions are welcome! :)*   
 <img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/handshake.png" alt="Handshake" width="18" height="18" /> I’m looking to collaborate on **_Open-source and other related projects_**  
@@ -182,7 +182,7 @@ I'm currently learning **C++, SQL** | *All suggestions are welcome! :)*
 <br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bandirevanth&title=-Reviews" alt="bandirevanth" align="center"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bandirevanth&title=-Reviews" alt="bandirevanth's trophies" align="center"/></a>
 </div>
 
 <br/> 
