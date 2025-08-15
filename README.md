@@ -81,9 +81,9 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
 
 
 ## Info 🌟
-<img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/telescope.png" width="18" height="18"/> I’m currently working on [Front-end & Full-stack Projects](https://github.com/stars/bandirevanth/lists/web-dev) ✨🚀  
+<img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/telescope.png" width="18" height="18"/> I’m currently working on AI-integrated projects✨🚀  
 <img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/writinghand.png"  width="18" height="18"/>
-I'm currently learning **C++, SQL** | *All suggestions are welcome! :)*   
+I'm currently learning **Java, SQL** | *All suggestions are welcome! :)*   
 <img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/handshake.png" alt="Handshake" width="18" height="18" /> I’m looking to collaborate on **_Open-source and other related projects_**  
 ⚠  Please read [NOTICE](https://github.com/bandirevanth/bandirevanth/blob/main/NOTICE) - This applies to all my licensed repositories (important)  
 🌟 My Open Source contributions:
