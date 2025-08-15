@@ -27,26 +27,26 @@ _These links are in order of relevance (as per my profile)_
 <a href="https://gist.github.com/bandirevanth" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="gravatar.com/bandirevanth">
-  <img src="https://img.shields.io/badge/Gravatar-1E8CBE.svg?&style=for-the-badge&logo=gravatar&logoColor=fff" alt=gravatar style="margin-bottom: 5px;"></img>
-</a>
 <a href="https://codechef.com/users/bandi_revanth" target="_blank">
   <img src=https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
-</a>
-<a href="https://g.dev/bandirevanth">
-    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt=google-dev style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/u/bandi_revanth/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=leetcode style="margin-bottom: 5px;" />
 </a>
-<a href="https://app.transifex.com/user/profile/bandirevanth/">
-    <img src="https://img.shields.io/badge/Transifex-0064AB?style=for-the-badge&logo=transifex&logoColor=fff" alt=transifex style="margin-bottom: 5px;"/>
-</a>
 <a href="https://medium.com/@bandirevanth">
     <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;"/>
 </a>
+<a href="https://app.transifex.com/user/profile/bandirevanth/">
+    <img src="https://img.shields.io/badge/Transifex-0064AB?style=for-the-badge&logo=transifex&logoColor=fff" alt=transifex style="margin-bottom: 5px;"/>
+</a>
+<a href="https://g.dev/bandirevanth">
+    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt=google-dev style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.kaggle.com/bandirevanth5825">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="gravatar.com/bandirevanth">
+  <img src="https://img.shields.io/badge/Gravatar-1E8CBE.svg?&style=for-the-badge&logo=gravatar&logoColor=fff" alt=gravatar style="margin-bottom: 5px;"></img>
 </a>
 <!--- 
 <a href="https://discord.com/users/">
