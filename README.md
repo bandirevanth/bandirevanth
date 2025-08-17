@@ -96,7 +96,7 @@ I'm currently learning **Java, SQL** | *All suggestions are welcome! :)*
 <div align="center">  
 <p align="center">
   <a href="https://github.com/bandirevanth">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,html,css,js,ts,nodejs,react,nextjs,tailwind,git,latex,markdown" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,java,html,css,js,ts,nodejs,react,nextjs,tailwind,git,latex,markdown" />
     <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory,pandas"/>
   </a>
 </p>
