@@ -63,7 +63,6 @@ href="https://linktr.ee/bandirevanth">
 <a href="https://www.hackerrank.com/bandirevanth">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=hackerrank style="margin-bottom: 5px;"/>
 </a>
-<!--
 <a href="https://dev.to/bandirevanth" target="_blank">
   <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
@@ -73,7 +72,6 @@ href="https://linktr.ee/bandirevanth">
 <a href="https://open.spotify.com/user/3nz1hwstr0urlsej1g6git3l1?si=20e7bc80b79b45bc">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;"></img>
 </a>
--->
 
 ### Glad to see you here! 😊
 ⭐**I’m a student and self-taught developer from Hyderabad, India! 🇮🇳**  
