@@ -1,5 +1,6 @@
+<!-- This wallpaper element updates itself everytime you (user) refresh or visit the page -->
 <div align=center>
-  <img src="https://minimalistic-wallpaper.demolab.com/?random=1&redirect=1" width=50%>
+  <img src="https://minimalistic-wallpaper.demolab.com/?random=1&redirect=1" width=50% />
 </div>
 
 <div id="user-content-toc">
@@ -18,7 +19,7 @@
 
 <img width="100%" loading="lazy" src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/rainbow-superthin.webp" />
 
-## Hello & Welcome! <img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/hi.gif" width="29px">
+## Hello & Welcome! <img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/hi.gif" width="29px" />
 
 _These links are in order of relevance (as per my profile)_
 
@@ -212,7 +213,7 @@ I'm currently learning **Java, SQL** | *All suggestions are welcome! :)*
     - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf?t=1747538522)
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
     - [Curator at uiverse.io](https://uiverse.io/profile/bandirevanth) - My designs have recieved 42K+ views & 800+ likes.
-    - CodePen: Recieved 500 views
+    - CodePen: Recieved ~500 views
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
     - **Consistent school academic performer**. 🥇
        - 95% in Grade 8th & 9th
@@ -260,3 +261,5 @@ I'm currently learning **Java, SQL** | *All suggestions are welcome! :)*
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
+<!-- Who has the time to go through a README file's code. Well looks like you do. Nice! -->
