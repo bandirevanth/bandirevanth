@@ -217,7 +217,7 @@ I'm currently learning **Java, SQL** | *All suggestions are welcome! :)*
     - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf?t=1747538522)
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
     - [Curator at uiverse.io](https://uiverse.io/profile/bandirevanth) - My designs have recieved 42K+ views & 800+ likes.
-    - CodePen: Recieved ~500 views
+    - CodePen: Received ~600 views
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
     - **Consistent school academic performer**. 🥇
        - 95% in Grade 8th & 9th
