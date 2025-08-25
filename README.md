@@ -145,19 +145,23 @@ I'm currently learning **Java, SQL** | *All suggestions are welcome! :)*
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
     </td>
+   <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Docker" /><br>Kubernetes
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000" width="48" height="48" alt="LaTeX" /><br>LaTeX
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown" /><br>Markdown
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96" height="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Colab" /><br>Google Colab
     </td>
-    <td></td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
