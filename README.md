@@ -34,6 +34,9 @@ _These links are in order of relevance (as per my profile)_
 <a href="https://leetcode.com/u/bandi_revanth/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=leetcode style="margin-bottom: 5px;" />
 </a>
+<a href="https://codepen.io/bandirevanth/">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=#d16c06" alt=codepen style="margin-bottom: 5px;" />
+</a>
 <a href="https://codechef.com/users/bandi_revanth" target="_blank">
   <img src=https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>
@@ -70,9 +73,11 @@ href="https://linktr.ee/bandirevanth">
 <a href="https://stackoverflow.com/users/15611261/bandi-revanth" target="_blank">
   <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
+<!--
 <a href="https://open.spotify.com/user/3nz1hwstr0urlsej1g6git3l1?si=20e7bc80b79b45bc">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;"></img>
 </a>
+-->
 
 ### Glad to see you here! 😊
 ⭐**I’m a student and self-taught developer from Hyderabad, India! 🇮🇳**  
