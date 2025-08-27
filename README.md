@@ -250,7 +250,7 @@ I'm currently learning **Java, SQL** | *All suggestions are welcome! :)*
     </td>
     <td valign="top" align="center" width="50%" style="width:85%" >
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandirevanth&hide_border=true&layout=compact" style="width: 85%" />
-      <img src="https://streak-stats.demolab.com?user=bandirevanth&date_format=M%20j%5B%2C%20Y%5D" />
+      <img src="https://streak-stats.demolab.com?user=bandirevanth&date_format=M%20j%5B%2C%20Y%5D" alt="github streak" />
     </td>
   </tr>
 </table>
@@ -258,7 +258,7 @@ I'm currently learning **Java, SQL** | *All suggestions are welcome! :)*
 <br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bandirevanth&title=-Reviews&column=-1" alt="bandirevanth's trophies" align="center"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=bandirevanth&title=-Reviews&column=-1" alt="bandirevanth's trophies"/>
 </div>
 
 <br/> 
