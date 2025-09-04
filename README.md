@@ -224,7 +224,7 @@ I'm currently learning **Java, SQL** | *All suggestions are welcome! :)*
     - [International Computer Science Competition]
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
     - [Curator at uiverse.io](https://uiverse.io/profile/bandirevanth) - My designs have recieved 42K+ views & 800+ likes.
-    - CodePen: Received ~600 views
+    - [CodePen](https://codepen.io/bandirevanth): 900+ views
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
     - **Consistent school academic performer**. 🥇
        - 95% in Grade 8th & 9th
