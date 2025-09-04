@@ -260,7 +260,7 @@ I'm currently learning **Java, SQL** | *All suggestions are welcome! :)*
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bandirevanth&title=-Reviews&column=-1" alt="bandirevanth's trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bandirevanth&column=-1" alt="bandirevanth's trophies"/>
 </div>
 
 <br/> 
