@@ -26,16 +26,16 @@ _These links are in order of relevance (as per my profile)_
 <img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/dev-setup.gif" width="350" align='right'>
 
 <a href="https://gist.github.com/bandirevanth" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=githubgist style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@bandirevanth">
     <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;"/>
 </a>
-<a href="https://leetcode.com/u/bandi_revanth/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=leetcode style="margin-bottom: 5px;" />
-</a>
 <a href="https://codepen.io/bandirevanth/">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=#d16c06" alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://leetcode.com/u/bandi_revanth/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=leetcode style="margin-bottom: 5px;" />
 </a>
 <a href="https://codechef.com/users/bandi_revanth" target="_blank">
   <img src=https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
