@@ -1,4 +1,4 @@
-<!-- This wallpaper element updates itself everytime you (user) refresh or visit the page -->
+<!-- Dynamic wallpaper: loads a new image on each page refresh or visit -->
 <div align=center>
   <img src="https://minimalistic-wallpaper.demolab.com/?random=1&redirect=1" width=50% />
 </div>
@@ -87,8 +87,9 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
 ## Info 🌟
 <img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/telescope.png" width="18" height="18"/> I’m currently working on [AI/ML projects](https://github.com/bandirevanth/aiml-codex) ✨🚀  
 <img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/writinghand.png" width="18" height="18"/>
-I'm currently learning **Java, SQL** | *All suggestions are welcome! :)*   
+I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*   
 <img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/handshake.png" alt="Handshake" width="18" height="18" /> I’m looking to collaborate on **_Open-source and other related projects_**  
+<img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/bullseye.png" alt="Bullseye/Target" width="18" height="18" /> My **hobbies** are: **Numismatics** and **Astronomy**; I’m an enthusiast in both.  
 ⚠  Please read [NOTICE](https://github.com/bandirevanth/bandirevanth/blob/main/NOTICE) - This applies to all my licensed repositories (important)  
 🌟 My Open Source contributions:
   - [Translations & Documentations](https://app.transifex.com/user/profile/bandirevanth/)  
