@@ -222,7 +222,7 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
     - 2023: Zonal Rank 87
 8. Miscellaneous:
     - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf?t=1747538522)
-    - [International Computer Science Competition]
+    - [International Computer Science Competition (ICSC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://icscompetition.org/c/PerformanceReport-PR-2025-FF9FCF1F241-b0a0f86e104cffb6f9668e62db3acda2.pdf?t=1758806013)
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
     - [Curator at uiverse.io](https://uiverse.io/profile/bandirevanth) - My designs have recieved 42K+ views & 800+ likes.
     - [CodePen](https://codepen.io/bandirevanth): 1.1K+ views
