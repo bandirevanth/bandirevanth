@@ -34,6 +34,9 @@ _These links are in order of relevance (as per my profile)_
 <a href="https://codepen.io/bandirevanth/">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=#d16c06" alt=codepen style="margin-bottom: 5px;" />
 </a>
+<a href="https://x.com/bandi__revanth">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt=twitter/x style="margin-bottom: 5px;"/>
+</a>
 <a href="https://leetcode.com/u/bandi_revanth/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=leetcode style="margin-bottom: 5px;" />
 </a>
@@ -90,13 +93,15 @@ I began my coding/tech journey in 2021, and for nearly four years now, it has be
 I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*   
 <img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/handshake.png" alt="Handshake" width="18" height="18" /> I’m looking to collaborate on **_Open-source and other related projects_**  
 <img src="https://github.com/bandirevanth/bandirevanth/blob/main/assets/bullseye.png" alt="Bullseye/Target" width="18" height="18" /> My **hobbies** are: **Numismatics** and **Astronomy**; I’m an enthusiast in both.  
-⚠  Please read [NOTICE](https://github.com/bandirevanth/bandirevanth/blob/main/NOTICE) - This applies to all my licensed repositories (important)  
 🌟 My Open Source contributions:
   - [Translations & Documentations](https://app.transifex.com/user/profile/bandirevanth/)  
     - Hindi translator at [readthedocs](https://about.readthedocs.com/)  
-    - **Hindi & Telugu translator at [Bitcoin](https://bitcoin.org)**
-    - **Hindi Translator at [Privacy Guides](https://crowdin.com/profile/bandirevanth)**
+    - Hindi & Telugu translator at **[Bitcoin](https://bitcoin.org)**
+    - Hindi Translator at [Privacy Guides](https://crowdin.com/profile/bandirevanth)
     - [System Design Primer](https://github.com/donnemartin/system-design-primer) : [working on the Hindi version](https://github.com/bandirevanth/system-design-primer)  
+  - Front-end / UI-UX
+    - **[Curator at uiverse.io](https://uiverse.io/profile/bandirevanth)** - My designs have received **42K+ views & 800+ likes**.
+    - [CodePen](https://codepen.io/bandirevanth): **1.2K+ views**
    
 ## Languages and Tools 🛠  
 <div align="center">  
@@ -179,6 +184,8 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
 </table>
 </div>  
 
+⚠  Please read [NOTICE](https://github.com/bandirevanth/bandirevanth/blob/main/NOTICE) - This applies to all my licensed repositories (important)  
+
 ## ⚡ Achievements 🔥
 
 <details>
@@ -224,8 +231,6 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
     - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf?t=1747538522)
     - [International Computer Science Competition (ICSC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://icscompetition.org/c/PerformanceReport-PR-2025-FF9FCF1F241-b0a0f86e104cffb6f9668e62db3acda2.pdf?t=1758806013)
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
-    - [Curator at uiverse.io](https://uiverse.io/profile/bandirevanth) - My designs have recieved 42K+ views & 800+ likes.
-    - [CodePen](https://codepen.io/bandirevanth): 1.1K+ views
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
     - **Consistent school academic performer**. 🥇
        - 95% in Grade 8th & 9th
