@@ -101,7 +101,7 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
     - [System Design Primer](https://github.com/donnemartin/system-design-primer) : [working on the Hindi version](https://github.com/bandirevanth/system-design-primer)  
   - Front-end / UI-UX
     - **[Curator at uiverse.io](https://uiverse.io/profile/bandirevanth)** - My designs have received **43K+ views & 840+ likes**.
-    - [CodePen](https://codepen.io/bandirevanth): **1.2K+ views**
+    - [CodePen](https://codepen.io/bandirevanth): **1.4K+ views**
    
 ## Languages and Tools 🛠  
 <div align="center">  
