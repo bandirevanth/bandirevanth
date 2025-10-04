@@ -161,7 +161,7 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker
     </td>
     <td align="center" width="96">
-      <img src="" width="48" height="48" alt="Docker" /><br>n8n
+      <img src="assets/n8n_pink+white_logo.svg" width="65" height="65" alt="n8n" /><br>n8n
     </td>
   </tr>
   <tr>
