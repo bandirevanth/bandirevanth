@@ -184,7 +184,8 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
 </table>
 </div>  
 
-⚠  Please read [NOTICE](https://github.com/bandirevanth/bandirevanth/blob/main/NOTICE) - This applies to all my licensed repositories (important)  
+⚠  Please read [NOTICE](https://github.com/bandirevanth/bandirevanth/blob/main/NOTICE) - This applies to all my licensed repositories  
+**IMPORTANT**: Please note that I do not have a LinkedIn account yet due to age restrictions. Any other accounts with my name belong to different individuals, not me.
 
 ## ⚡ Achievements 🔥
 
