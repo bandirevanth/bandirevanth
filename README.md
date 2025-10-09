@@ -100,8 +100,8 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
     - Hindi Translator at [Privacy Guides](https://crowdin.com/profile/bandirevanth)
     - [System Design Primer](https://github.com/donnemartin/system-design-primer) : [working on the Hindi version](https://github.com/bandirevanth/system-design-primer)  
   - Front-end / UI-UX
-    - **[Curator at uiverse.io](https://uiverse.io/profile/bandirevanth)** - My designs have received **43K+ views & 840+ likes**.
-    - [CodePen](https://codepen.io/bandirevanth): **1.4K+ views**
+    - **[Curator at uiverse.io](https://uiverse.io/profile/bandirevanth)** - My designs have received **43K+ views & 850+ likes**.
+    - [CodePen](https://codepen.io/bandirevanth): **1.5K+ views**
    
 ## Languages and Tools 🛠  
 <div align="center">  
@@ -231,6 +231,7 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
 8. Miscellaneous:
     - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf?t=1747538522)
     - [International Computer Science Competition (ICSC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://icscompetition.org/c/PerformanceReport-PR-2025-FF9FCF1F241-b0a0f86e104cffb6f9668e62db3acda2.pdf?t=1758806013)
+    - [International Youth Math Challenge (IYMC)](https://iymc.info) - TBD (2025)
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
     - **Consistent school academic performer**. 🥇
