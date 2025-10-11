@@ -166,16 +166,20 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
   </tr>
   <tr>
     <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>SQL
+    </td>
+    <td align="center" width="96">
       <img src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000" width="48" height="48" alt="LaTeX" /><br>LaTeX
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown" /><br>Markdown
     </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/5418178/175823761-ee7996b9-57be-4abf-be93-0ad25e7f37f0.png" width="48" height="48" alt="Regex" /><br>Regex
+    </td>
     <td align="center" width="96" height="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Colab" /><br>Google Colab
     </td>
-    <td></td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
