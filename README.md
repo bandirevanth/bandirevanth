@@ -28,8 +28,11 @@ _These links are in order of relevance (as per my profile)_
 <a href="https://gist.github.com/bandirevanth" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=githubgist style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@bandirevanth">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;"/>
+<a href="https://gist.github.com/bandirevanth" target="_blank">
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=githubgist style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/bandi-revanth">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 <a href="https://codepen.io/bandirevanth/">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=#d16c06" alt=codepen style="margin-bottom: 5px;" />
@@ -101,7 +104,7 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
     - [System Design Primer](https://github.com/donnemartin/system-design-primer) : [working on the Hindi version](https://github.com/bandirevanth/system-design-primer)  
   - Front-end / UI-UX
     - **[Curator at uiverse.io](https://uiverse.io/profile/bandirevanth)** - My designs have received **43K+ views & 850+ likes**.
-    - [CodePen](https://codepen.io/bandirevanth): **1.7K+ views**
+    - [CodePen](https://codepen.io/bandirevanth): **1.8K+ views**
    
 ## Languages and Tools 🛠  
 <div align="center">  
