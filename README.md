@@ -28,9 +28,6 @@ _These links are in order of relevance (as per my profile)_
 <a href="https://gist.github.com/bandirevanth" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=githubgist style="margin-bottom: 5px;" />
 </a>
-<a href="https://gist.github.com/bandirevanth" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=githubgist style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/bandi-revanth">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
