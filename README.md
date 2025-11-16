@@ -100,8 +100,8 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
     - Hindi Translator at [Privacy Guides](https://crowdin.com/profile/bandirevanth)
     - [System Design Primer](https://github.com/donnemartin/system-design-primer) : [working on the Hindi version](https://github.com/bandirevanth/system-design-primer)  
   - Front-end / UI-UX
-    - **[Curator at uiverse.io](https://uiverse.io/profile/bandirevanth)** - My designs have received **43K+ views & 850+ likes**.
-    - [CodePen](https://codepen.io/bandirevanth): **1.8K+ views**
+    - **[Curator at uiverse.io](https://uiverse.io/profile/bandirevanth)** - My designs have received **43k+ views & 850+ likes**.
+    - [CodePen](https://codepen.io/bandirevanth): **2k+ views**
    
 ## Languages and Tools 🛠  
 <div align="center">  
