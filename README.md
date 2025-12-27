@@ -193,14 +193,27 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
 ## ⚡ Achievements 🔥
 
 <details>
-  <summary><b>Click to expand and view in detail.</b></summary>
+  <summary><b>Click to expand and view in detail. (A MUST READ!)</b></summary>
 
 1. Multi-time quiz champion, recognised for consistent top performance in general knowledge, current affairs and science.
     - [Hyderabad Science Quiz: Conducted by GPBAASRI & IIRS-ISRO](https://calps.in/2023/03/03/hyderabad-science-quiz-2022_23/) - Winner (2023) 🏆
     - Times Interschool Quiz (Hyderabad) - Semifinalist (2023)
     - [Indica The India Quiz (Hyderabad)](https://indica.consultnexus.in/) - 2nd Prize (2024) 🏆
     - [Indian Navy THINQ](https://www.indiannavythinq.in/) - Qualified to Quarter-finals after multiple rounds (2024)
-2. [SOF Olympiads](https://sofworld.org)  
+    - [National STEM Quiz 4.0: Conducted by Govt. of Gujarat](https://stemquiz.gujarat.gov.in/STEM/Index) - TBD/TBA (2025-26)
+2. Competitions:
+    - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf)
+    - [International Computer Science Competition (ICSC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://icscompetition.org/c/PerformanceReport-PR-2025-FF9FCF1F241-b0a0f86e104cffb6f9668e62db3acda2.pdf)
+    - [International Youth Math Challenge (IYMC)](https://iymc.info) - [Qualified for Pre-final Round 🚀 (2025) | Recognized for exceptional submission](https://iymc.info/c/PerformanceReport-PR-2025-1001AA2BC1FE-c198cddd7b4d53d9d1add99fa5961b6f.pdf)
+    - [STEMS 2026 by Tesslellate@CMI](https://tessellate.cmi.ac.in/stems/) - TBD/TBA
+    - [LIMITS 2026 by ISI Bangalore](https://www.limitisi.in/) - TBD/TBA
+    - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
+    - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
+    - **Consistent school academic performer**. 🥇
+       - 95% in Grade 8th & 9th
+       - 94% in Grade 10th
+       <!-- - __% in Grade 11th | __% in Grade 12th (Total: /1000) -->
+3. [SOF Olympiads](https://sofworld.org)  
    A. [Cyber/CS Olympiad](https://sofworld.org/icso)
       * Exceptional performance; School topper; Gold medals winner 🥇
       * 2021 - Zonal Rank 10 | 2022 - Zonal Rank 15 | [2025 - Zonal Rank 24](https://results.sofworld.org/result/xx/acb64648-7ad1-47b4-a9c0-de424880bf7d/&iaw=N.A.&saw=Gold%20Medal%20of%20Distinction,%20Certificate%20of%20Distinction,%20Certificate%20of%20Zonal%20Excellence&schaw=Student%20Progress%20Report%20(SPR)&c=10&roll_no=TS1133-10-A-002)  
@@ -209,7 +222,7 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
       * 2022 - Int'l Rank - 519 | School Rank - 1  
    C. [Maths Olympiad](https://sofworld.org/imo)
       * 2022 - Exceptional performance; School topper; Gold medal winner 🥇
-3. Certifications:
+4. Certifications:
     - Google ML Crash Course - [View & verify](https://g.dev/bandirevanth)
 - Via the DeepLearning.AI platform:
     - MCP by Anthropic - [View & verify](https://learn.deeplearning.ai/accomplishments/b26009b1-432e-4181-a756-92397adee40b?usp=sharing)
@@ -231,15 +244,6 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
 7. [LogIQids Mental Aptitude Olympiad](https://www.logiqids.com)
     - 2022: State Rank 115
     - 2023: Zonal Rank 87
-8. Miscellaneous:
-    - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf?t=1747538522)
-    - [International Computer Science Competition (ICSC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://icscompetition.org/c/PerformanceReport-PR-2025-FF9FCF1F241-b0a0f86e104cffb6f9668e62db3acda2.pdf?t=1758806013)
-    - [International Youth Math Challenge (IYMC)](https://iymc.info) - TBD (2025)
-    - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
-    - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
-    - **Consistent school academic performer**. 🥇
-       - 95% in Grade 8th & 9th
-       - 94% in Grade 10th
 
 </details>
 
@@ -258,12 +262,12 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=bandirevanth&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
-      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bandirevanth&theme=github" style="height=100%; width=50%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=bandirevanth&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" alt="GitHub user stats"/>
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bandirevanth&theme=github" style="height=100%; width=50%" alt="GitHub user stats"/>
     </td>
     <td valign="top" align="center" width="50%" style="width:85%" >
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandirevanth&hide_border=true&layout=compact" style="width: 85%" />
-      <img src="https://streak-stats.demolab.com?user=bandirevanth&date_format=M%20j%5B%2C%20Y%5D" alt="github streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandirevanth&hide_border=true&layout=compact" style="width: 85%" alt="GitHub user stats" />
+      <img src="https://streak-stats.demolab.com?user=bandirevanth&date_format=M%20j%5B%2C%20Y%5D" alt="github streak" alt="GitHub user stats" />
     </td>
   </tr>
 </table>
