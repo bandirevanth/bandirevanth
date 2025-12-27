@@ -206,7 +206,6 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
     - [International Computer Science Competition (ICSC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://icscompetition.org/c/PerformanceReport-PR-2025-FF9FCF1F241-b0a0f86e104cffb6f9668e62db3acda2.pdf)
     - [International Youth Math Challenge (IYMC)](https://iymc.info) - [Qualified for Pre-final Round 🚀 (2025) | Recognized for exceptional submission](https://iymc.info/c/PerformanceReport-PR-2025-1001AA2BC1FE-c198cddd7b4d53d9d1add99fa5961b6f.pdf)
     - [STEMS 2026 by Tesslellate@CMI](https://tessellate.cmi.ac.in/stems/) - TBD/TBA
-    - [LIMITS 2026 by ISI Bangalore](https://www.limitisi.in/) - TBD/TBA
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
     - **Consistent school academic performer**. 🥇
