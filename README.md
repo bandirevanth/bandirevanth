@@ -1,6 +1,6 @@
 <!-- Dynamic wallpaper: loads a new image on each page refresh or visit -->
 <div align=center>
-  <img src="https://minimalistic-wallpaper.demolab.com/?random=1&sig=1" width=50% />
+  <img src="https://minimalistic-wallpaper.demolab.com/?random=1&redirect=1" width=50% />
 </div>
 
 <div id="user-content-toc">
