@@ -155,6 +155,17 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" /><br>Tailwind
     </td>
     <td align="center" width="96">
+      <img src="assets/claude-ai-icon.svg" width="49" height="49" alt="Claude: Code & Skills" /><br>Claude: Code & Skills
+    </td>
+    <td align="center" width="96">
+      <img src="assets/vertex-ai.svg" width="50" height="50" alt="Vertex AI" /><br>Vertex AI
+    </td>
+    <td align="center" width="96">
+      <img src="assets/cursor_light.png" width="50" height="50" alt="Cursor" /><br>Cursor
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
     </td>
     <td align="center" width="96">
@@ -163,17 +174,12 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
     <td align="center" width="96">
       <img src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000" width="48" height="48" alt="LaTeX" /><br>LaTeX
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown" /><br>Markdown
     </td>
     <td align="center" width="96" height="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Colab" /><br>Google Colab
     </td>
-    <td></td>
-    <td></td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
