@@ -111,19 +111,7 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /><br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /><br>PyTorch
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br>C++
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /><br>HTML
@@ -134,17 +122,20 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /><br>CSS
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
+        <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>SQL
+    </td>
+        <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br>Node.js
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>React
     </td>
@@ -163,15 +154,7 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
     <td align="center" width="96">
       <img src="assets/cursor_light.png" width="50" height="50" alt="Cursor" /><br>Cursor
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>SQL
-    </td>
-    <td align="center" width="96">
+        <td align="center" width="96">
       <img src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000" width="48" height="48" alt="LaTeX" /><br>LaTeX
     </td>
     <td align="center" width="96">
@@ -180,9 +163,6 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
     <td align="center" width="96" height="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Colab" /><br>Google Colab
     </td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 </div>  
