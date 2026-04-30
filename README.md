@@ -184,13 +184,12 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
     - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf)
     - [International Computer Science Competition (ICSC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://icscompetition.org/c/PerformanceReport-PR-2025-FF9FCF1F241-b0a0f86e104cffb6f9668e62db3acda2.pdf)
     - [International Youth Math Challenge (IYMC)](https://iymc.info) - [Qualified for Pre-final Round 🚀 (2025) | Recognized for exceptional submission](https://iymc.info/c/PerformanceReport-PR-2025-1001AA2BC1FE-c198cddd7b4d53d9d1add99fa5961b6f.pdf)
-    - [STEMS 2026 by Tesslellate@CMI](https://tessellate.cmi.ac.in/stems/) - TBD/TBA
     - AISF-AIYF Foundation Day Celebrations (Essay Writing Competition) - 2nd place (2022)
     - CBSE Āryabhaṭa Ganit Challenge - School Topper & Qualified for Level 2 (2023)
     - **Consistent school academic performer**. 🥇
        - 95% in Grade 8th & 9th
        - 94% in Grade 10th
-       <!-- - __% in Grade 11th | __% in Grade 12th (Total: /1000) -->
+       - 96% in Grade 11th <!-- - | __% in Grade 12th (Total: /1000) -->
 3. [SOF Olympiads](https://sofworld.org)  
    A. [Cyber/CS Olympiad](https://sofworld.org/icso)
       * Exceptional performance; School topper; Gold medals winner 🥇
