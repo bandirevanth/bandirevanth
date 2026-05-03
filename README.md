@@ -179,7 +179,6 @@ I'm currently learning **Java, C++, SQL** | *All suggestions are welcome! :)*
     - Times Interschool Quiz (Hyderabad) - Semifinalist (2023)
     - [Indica The India Quiz (Hyderabad)](https://indica.consultnexus.in/) - 2nd Prize (2024) 🏆
     - [Indian Navy THINQ](https://www.indiannavythinq.in/) - Qualified to Quarter-finals after multiple rounds (2024)
-    - [National STEM Quiz 4.0: Conducted by Govt. of Gujarat](https://stemquiz.gujarat.gov.in/STEM/Index) - TBD/TBA (2025-26)
 2. Competitions:
     - [International Astronomy and Astrophysics Competition (IAAC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://iaac.space/c/PerformanceReport-PR-2025-FE401BE8D3E-234d2c85e1786f6e71de096c74fb9ac6.pdf)
     - [International Computer Science Competition (ICSC)](https://iaac.space) - [Qualified for Pre-final Round 🚀 (2025)](https://icscompetition.org/c/PerformanceReport-PR-2025-FF9FCF1F241-b0a0f86e104cffb6f9668e62db3acda2.pdf)
